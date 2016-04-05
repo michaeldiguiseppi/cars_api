@@ -1,0 +1,70 @@
+[
+  {
+    "Acura" : {
+      "models" : [
+        {
+          "name" : "Integra",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "Integra Type R",
+          "years" : [1980, 2017],
+          "class" : "DS"
+        }, {
+          "name" : "NSX",
+          "years" : [1980, 2017],
+          "class" : "BS"
+        }, {
+          "name" : "NSX Zanardi",
+          "years" : [1980, 2017],
+          "class" : "AS"
+        }, {
+          "name" : "RSX Type S",
+          "years" : [1980, 2017],
+          "class" : "GS"
+        }, {
+          "name" : "CL",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "ILX",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "Legend",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "RSX",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "TL",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "TSX",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }, {
+          "name" : "Vigor",
+          "years" : [1980, 2017],
+          "class" : "HS"
+        }
+      ]
+    }
+  },
+  {
+    "BMW" : {
+      "Models" : [{
+              "name": "3-series",
+              "years": [2001, 2002],
+              "class": "HS"
+        }, {
+          "name": "3-series",
+          "years": [2004, 2005],
+          "class": "GS"
+          }]
+    }
+  }
+]
