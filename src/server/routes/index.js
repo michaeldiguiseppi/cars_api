@@ -10,23 +10,6 @@ var classSchema = new Schema({
   year: String,
   scca_class: String,
   });
-  // var classSchema = new Schema({
-  //   make: String,
-  //   model: String,
-  //   class: [{
-  //     year: String,
-  //     scca_class: String,
-  //   }]
-  // });
-// var Car = mongoose.model('Car', );
-// var classSchema = new Schema({
-//   class: {
-//     make: {
-//       models: String,
-//       years: Number
-//     }
-//   }
-// });
 var Class = mongoose.model('Class', classSchema);
 
 router.all("/*", function(req, res, next) {
@@ -47,19 +30,24 @@ router.get('/', function(req, res, next) {
   Class.find(function(err, cars) {
     res.json(cars);
   });
-  // var cars = Car.find(function(err, threads) {
-  //   res.json(threads);
-  // });
 });
 
 router.get('/years/:year/:make', function(req, res, next) {
   var make = req.params.make;
   var year = req.params.year;
-  Class.find({"Audi": make}, function(err, classes) {
+  Class.find({"make": make, "year": year}, function(err, classes) {
     res.json(classes);
   });
 });
 
+router.get('/car/:make/:model/:year', function(req, res, next) {
+  var make = req.params.make;
+  var model = req.params.model;
+  var year = req.params.year;
+  Class.find({"make": make, "model": model, "year": year}, function(err, classes) {
+    res.json(classes);
+  });
+});
 
 router.post('/cars', function(req, res, next) {
   console.log(req.body);
