@@ -1,0 +1,3909 @@
+/*
+Audi
+
+BMW
+M3 & M4 (F80/F82) (2015-16)
+Cadillac
+XLR
+Chevrolet
+Camaro Z28 (2014-15)
+Camaro ZL1 (2012-15)
+Corvette (C6, non-ZR1) (2005-
+13)
+Corvette Z06 (C5) (2001-04)
+Dodge
+Viper (non-ACR) (2008-10)
+Viper GTS (1996-2005)
+Viper R/T (1992-2003)
+Viper SRT-10 (2003-07)
+Ford
+Mustang Boss 302 Laguna Seca
+(2012-13)
+Mustang Shelby GT350 (2016)
+Mustang Shelby GT500 (2007-
+14)
+Honda
+S2000 CR
+Jaguar
+F-Type (except Project 7) (2014-
+16)
+Lotus
+Esprit Turbo (1996-2004)
+Evora (non-supercharged)(2010-
+15)
+Mazda
+RX-7 (1993-95)
+Morgan
+Plus 8
+Roadster (V6)
+Nissan
+350Z NISMO (2004-2008)
+370Z NISMO (2009-16)
+Pontiac
+Solstice GXP (Turbo) (2007-09)
+Porsche
+911 (996, non-turbo) (1998-
+2005)
+Boxster (non-GTS, non-S, nonSpyder)
+(2009-16)
+Boxster S (2005-08)
+Cayman (non-GT4, non-GTS, nonR,
+non-S) (2009-16)
+Cayman S (2006-08)
+Saturn
+Sky Redline (Turbo) (2007-10)
+A Street class (AS)
+2016 SCCA® National Solo® Rules — 163
+Appendix A - Street
+Acura
+NSX (non-Zanardi Edition)
+Audi
+RS 4 (2007-08)
+RS 5 (2013-15)
+RS 6 (C5 chassis) (2003-04)
+S3 (2.0T) (2015-16)
+S4 (2010-16)
+S5 (2008-16)
+S6 (2013-16)
+S7 (2012-16)
+TT quattro (AWD) (2008-16)
+TTS (2009-15)
+BMW
+1 Series M Coupe (2011-12)
+M Coupe & Roadster (2001-02)
+Z4 Coupe (incl. M) (2006-08) &
+Roadster (incl. M) (2002-16)
+Cadillac
+ATS (3.6L V6)
+Chevrolet
+Corvette (C4, all) (1984-96)
+Corvette (C5, non-Z06) (1997-
+2004)
+DeTomaso
+Pantera
+Mangusta
+Honda
+S2000 (non-CR)
+Jaguar
+XKR Coupe
+Lexus
+RC-F (2015-16)
+Maserati
+Coupe (2002-07)
+GranSport (2004-07)
+Spyder (2002-07)
+Mazda
+Miata Club Sport (2003)
+MX-5 Miata MS-R (2007)
+Mercedes-Benz
+C32 AMG (2002-04)
+CLA45 AMG (2014-15)
+CLK55 AMG (2001-06)
+E63 AMG (2010-16)
+GLA45 AMG
+SLK32 AMG (2002-04)
+SLK350 (2005-16)
+SLK55 AMG (2005-10)
+Mitsubishi
+Lancer Evolution (2003-15)
+Nissan
+370Z (non-NISMO) (2009-16)
+Pontiac
+Solstice (non-turbo) (2007-10)
+Porsche
+911 (993, non-turbo) (1995-98)
+968
+Boxster (986 & 987, non-S)
+(1997-2008)
+Boxster S (986 chassis) (2000-
+04)
+Cayman (non-S) (2005-08)
+Macan S & Turbo (2015-16)
+Saleen
+Mustang (non-supercharged)
+Saturn
+Sky (non-turbo) (2007-10)
+Shelby
+Cobra
+Subaru
+WRX STI (incl. Special Edition)
+(2004-16)
+Toyota
+Supra Turbo (1993½-98)
+TVR
+8-cyl
+V6
+V8
+V12
+Volkswagen
+Golf R (2015-16)
+B Street class (BS)
+164 — 2016 SCCA® National Solo® Rules
+Street - Appendix A
+BMW
+M Coupe & M Roadster (1996-
+2000)
+M3 (E30 & E36) (1988-91, 1995-
+99)
+Z3 (6-cyl, non-M) (1997-2002)
+Chevrolet
+Corvette (1963-82)
+Chrysler & Plymouth
+Prowler
+Ferrari
+308 & 328
+Jaguar
+XKE
+Jensen
+Jensen Healey
+Lotus
+7 & 7A
+Eclat
+Elan (RWD, all)
+Elite (all)
+Esprit (non-turbo)
+Europa
+Maserati
+BiTurbo
+Mazda
+MX-5 Miata (non-MS-R 2007)
+(2006-15)
+MX-5 Miata (ND chassis) (2016)
+RX-7 Turbo (1987-91)
+RX-8
+Mercedes-Benz
+SLK
+Nissan
+300ZX Turbo (1990-96)
+350Z (non-NISMO) (2003-09)
+Porsche
+356 Carrera (4-cam)
+911 (non-turbo, NOC)
+911 Club Sport
+914 (all)
+928 (all)
+944 (16v)
+944 Turbo (all)
+Carrera 2 & Carrera 4 (964)
+(1989-94)
+Scion
+FR-S (incl. Release Series 1.0)
+Subaru
+BRZ
+Toyota
+MR2 Turbo
+C Street class (CS)
+2016 SCCA® National Solo® Rules — 165
+Appendix A - Street
+Acura
+Integra Type R
+Audi
+A3 (2.0T; FWD and RWD) (2015-
+16)
+A3 quattro (3.2L V6, AWD)
+(2006-09)
+A5 (2008-16)
+S4 (2000-03)
+TT (1.8T, non-quattro/FWD)
+(2000-06)
+TT (2.0T, non-quattro/FWD)
+(2008-09)
+TT quattro (AWD) (2000-06)
+Chevrolet
+Cobalt SS (2.0L Turbo) (2008-10)
+Eagle
+Talon Turbo (AWD)
+Lexus
+SC 400 (1992-2000)
+Mazda
+Mazdaspeed6
+MINI
+Clubman JCW (2009-14)
+Clubman S (2008-14)
+Cooper Coupe JCW (2013-15)
+Cooper Coupe S (2013-15)
+Cooper JCW Hardtop (2006-16)
+Cooper Roadster JCW (2012-15)
+Cooper Roadster S (2012-15)
+Cooper S Hardtop (2002-16)
+Mitsubishi
+Eclipse Turbo (AWD)
+Lancer Ralliart (2009-15)
+Saab
+9-2X Aero (2.0L Turbo) (2005-
+06)
+Subaru
+Forester 2.5XT (2004-13)
+Legacy 2.5GT (2005-12)
+WRX (non-STI) (2001-16)
+Volkswagen
+Golf R (2012-13)
+R32 (Golf chassis) (2004, 2008)
+Alfa Romeo
+2000 Spider
+2000 GTV
+BMW
+Z3 (4-cyl) (1996-98)
+Datsun
+2000
+240Z
+260Z
+280Z
+280ZX (non-turbo)
+Dodge
+Charger Turbo
+GLH Turbo
+Fiat & Bertone
+X1/9
+Mazda
+Mazdaspeed Miata (2004-05)
+Miata (1990-2005)
+RX-7 (non-turbo)
+Morgan
+4/4 & Plus 4
+Pontiac
+Fiero (V6)
+Porsche
+924 Turbo (Audi engine) (1979-
+81)
+924S (1986-88)
+944 (8v)
+Shelby
+Charger GLH-S (1987)
+Sunbeam
+Tiger
+Toyota
+MR2 (non-turbo) (1985-95)
+MR2 Spyder (2000-05)
+MR2 Supercharged
+Triumph
+TR-8
+TVR
+4-cyl
+inline-6
+D Street class (DS) E Street class (ES)
+166 — 2016 SCCA® National Solo® Rules
+Street - Appendix A
+AMC
+AMX
+Javelin (V8)
+Audi
+A6 (V8) (1997-2011)
+A6 (V6 Supercharged) (2008-16)
+S4 (V8) (2004-09)
+BMW
+128i, 135i, & 135is (2008-13)
+228i & M235i (F22) (2014-16)
+323i & 328i (E46) (1999)
+328d (2014-16)
+328i (F30/F31/F34) (2012-16)
+335d (2009-11)
+3 Series (including M3; E46, E90/
+E91/E92/E93, F30) (2000-16)
+428i & 435i (F32/F33/F36)
+(2014-16)
+5 series (NOC)
+6 series coupe
+8 series coupe
+M5 (2004-10)
+M5 (1988-93, 2000-03)
+Buick
+Regal & Grand National (Turbo
+V6)
+Cadillac
+ATS (2.0L Turbo) (2013-16)
+CTS & CTS-V
+Chevrolet
+Camaro (V6) (2010-15)
+Camaro LT and SS (2016)
+Camaro SS (base car only incl.
+GM-installed 1LE) (1998-
+2002)
+Camaro SS (incl. 1LE) (2010-15)
+Camaro (V8 non-supercharged,
+NOC)
+Corvette (1953-62)
+Chrysler
+300 (incl. SRT8) (2004-16)
+Crossfire
+SRT-6 (2005-06)
+Datsun
+280ZX Turbo
+Dodge
+Challenger (all) (2008-16)
+Charger (V8) (2006-16)
+Magnum (incl. SRT8) (2005-08)
+Ram SRT10 (2004-06)
+Stealth Turbo
+Ford
+Crown Victoria
+Mustang Boss 302 (non-Laguna
+Seca) (2012-13)
+Mustang Cobra (2003-04)
+Mustang EcoBoost (2015-16)
+Mustang GT (2010-16)
+Mustang Mach 1 (2003-04)
+Mustang Shelby GT (T82 & 54U
+factory option package only)
+(2007-08)
+Mustang SVT Cobra
+Mustang V6 (2011-16)
+Mustang (V8, NOC)
+Thunderbird (V8 & V6 Supercharged)
+
+GMC
+Syclone
+Typhoon
+Hyundai
+Genesis Coupe (4-cyl Turbo)
+(2013)
+Genesis Coupe (V6) (2010-15)
+Infiniti
+G35 Coupe & Sedan
+G37 Coupe & Sedan
+Q45
+Jaguar
+S-Type (6-cyl)
+S-Type R
+X Type (3.0L) (2002-08)
+XJ (1998-2016)
+XJ-S (1976-96)
+XK8 (1997-2006)
+Sedan (12-cyl)
+Lexus
+GS 400 (1998-2000)
+IS 250 (2006-15)
+IS 300 (2001-05)
+IS 350 (2006-16)
+IS F (2008-14)
+RC (non-F) (2015-16)
+Lincoln
+LS (V8) (2000-06)
+Mark VIII (1993-98)
+Mercedes-Benz
+C280 (2001-07)
+C300 (2007-16)
+C320 (2001-05)
+F Street class (FS)
+2016 SCCA® National Solo® Rules — 167
+Appendix A - Street
+C350 (2007-15)
+C36 AMG
+C55 AMG (2005-06)*
+C63 AMG (non-Black Series)
+(2008-16)
+CLK
+E55 AMG
+Mercury
+Capri (V8)
+Cougar (V8 & V6 Supercharged)
+Mitsubishi
+3000 GT Turbo
+Nissan
+300ZX (non-turbo) (1990-96)
+300ZX Turbo (1984-89)
+Pontiac
+Firebird (V8, NOC)
+Firebird Trans Am & Formula
+(WS6, base car only, includ- ing GM-installed 1LE) (1998-
+2002)
+G8 (V8 & NOC) (2008-09)
+GTO (2004-06)
+Trans Am Turbo (V6) (1989)
+Porsche
+Panamera (2010-16)
+Shelby
+GT350 (1965-70)
+GT500 (1967-70)
+Tesla Motors
+Model S (2012-14)
+Toyota
+Supra (non-turbo) (1993-98)
+Supra Turbo (1987-92)
+Triumph
+Stag
+“Catch-all”:
+V8 sedans, pick-ups, and sedanderived
+convertibles (NOC)
+Acura
+RSX Type S
+Audi
+A3 (1.8T; FWD) (2015-16)
+A4 (V6 & 4-cyl Turbo)
+A6 (V6 NOC & 4-cyl)
+A8 & V8 quattro (AWD)
+Quattro (Coupe Turbo)
+BMW
+320i (F30/F31/F34) (2014-16)
+323i Convertible, 323is, 328i
+Convertible, & 328is (E36)
+(1999)
+3 Series (6-cyl, non-M3; E30,
+E36) (1984-98)
+Cadillac
+ATS (2.5L 4-cyl non-turbo)
+(2013-16)
+Chevrolet
+Cobalt Sport (2.4L) (2008)
+Cobalt SS (2.0L SC) (2005-07)
+Cobalt SS (2.4L) (2006-07)
+Malibu (all) (2008-16)
+Chrysler
+200 (V6) (2010-16)
+Conquest Turbo
+PT Cruiser (Turbo) (2003-09)
+Dodge
+Caliber SRT4
+Charger (V6) (2006-16)
+Conquest Turbo
+Neon (1995-99)
+SRT-4 (Neon chassis)
+Fiat
+500 Abarth (2012-16)
+Ford
+Focus ST (2013-16)
+Fusion (6-cyl)
+Mustang (V6) (1994-2010)
+Mustang SVO
+Taurus SHO (1989-99, 2010-16)
+ZX2 S/R (1999-2003)
+General Motors
+FWD models (4-cyl Turbo, 6-cyl,
+Ecotec, or Quad 4 engines,
+NOC)
+Hyundai
+Genesis Coupe (4-cyl Turbo)
+(2010-12)
+Veloster Turbo (2012-16)
+FS (continued) G Street class (GS)
+*April 2016 Fastrack News page 10
+168 — 2016 SCCA® National Solo® Rules
+Street - Appendix A
+Isuzu
+Impulse Turbo (all)
+Kia
+Forte & Forte Koup (2.4L)
+Lexus
+SC 300 (1992-2000)
+Mazda
+323 GT Turbo (sedan)
+323 GTX Turbo (AWD)
+Mazdaspeed3
+Mazdaspeed Protégé
+Mercedes
+190E (6-cyl 2.6L & 4-cyl 16v)
+C230 (1999-2007)
+Merkur
+XR4Ti
+MINI
+Cooper Hardtop (non-S, nonJCW)
+(2014-16)
+Mitsubishi
+Galant (V6 & 4-cyl Turbo)
+Starion Turbo
+Plymouth
+Neon (1995-99)
+Saab
+9-2X Linear (2.5L)
+Turbo models (NOC)
+Saturn
+ION Redline (Turbo)
+Subaru
+Impreza 2.5 (non-turbo)
+Toyota
+Celica All-Trac Turbo
+Celica GT (2000-05)
+Celica GTS (2000-03)
+Volkswagen
+1.8L Turbo models (NOC) (2002-
+06)
+Beetle & New Beetle (1.8L Turbo)
+Corrado
+Golf, GTI & Jetta (1.8L Turbo)
+Golf, GTI & Jetta (VR6 24v)
+(2002-05)
+GTI (2006-16)
+Jetta (2.0L Turbo) (2006-16)
+Passat (1.8L Turbo)
+Passat (W8)
+Volvo
+S60R (except Polestar)
+V70R (except Polestar)
+Turbo models (NOC)
+GS (continued)
+2016 SCCA® National Solo® Rules — 169
+Appendix A - Street
+Acura
+CL (all)
+ILX
+Integra (all except Type R) (1986-
+2001)
+Legend
+RSX (non-Type S)
+TL
+TSX
+Vigor
+Alfa Romeo
+164 (non-S) (1991-93)
+1300
+1600
+1750 & 1750 GTV
+2000 (4-door sedan)
+GTV V6
+Milano
+Sedan (NOC)
+AMC
+Gremlin (4-cyl & 6-cyl)
+Spirit (4-cyl & 6-cyl)
+Audi
+80
+90
+100 (non-S4)
+200 Turbo quattro
+4000
+5000 (non-turbo)
+5000 Turbo
+A3 (FWD) (2006-13)
+Coupe quattro (non-turbo)
+S4 (100 CS chassis) (1992-94)
+Austin
+Mini
+Austin-Healey
+(all)
+BMW
+1600
+1800
+2000 CS coupe
+2002
+318 (all)
+320
+7 Series (6-cyl)
+i3 (2014-16)
+Buick
+Reatta
+Cadillac
+Catera
+Chevrolet
+Aveo
+Beretta (NOC)
+Camaro (4-cyl & 6-cyl) (1967-
+2002)
+Chevette
+Cobalt (2.2L, all) (2005-10)
+Corvair (all)
+Cruze
+Nova (FWD) (1986-88)
+Nova (RWD, 4-cyl & 6-cyl) (1962-
+79)
+Sonic (all) (2012-16)
+Spectrum
+Sprint
+Vega & Cosworth Vega
+Volt (2012-16)
+Chrysler
+200 (4-cyl) (2010-16)
+300M (1999-2004)
+Cirrus (V6)
+Laser (all)
+PT Cruiser (non-turbo) (2001-
+2010)
+Sebring (all)
+Daewoo
+(all)
+Datsun
+1200
+1500 & 1600 Roadster
+210 & B-210
+310
+510
+610
+710
+810
+F10
+Dodge
+024
+Avenger (all)
+Challenger (1978-83)
+Charger (non-turbo, FWD)
+(1981-87)
+Colt (all)
+Dart (FWD) (2013-16)
+Daytona (all)
+GLH (non-turbo)
+Intrepid
+Lancer Turbo
+Neon (2000-05)
+Omni
+H Street class (HS)
+170 — 2016 SCCA® National Solo® Rules
+Street - Appendix A
+Rampage
+Shadow (all)
+Spirit (all)
+Stealth (non-turbo)
+Stratus (all)
+Eagle
+Summit (all)
+Talon (all, FWD)
+Fiat
+all except X1/9 & 500 (2012-16)
+Ford
+Aspire
+Contour (all)
+Cortina
+Escort (non-ZX2 S/R)
+EXP
+Festiva
+Fiesta (1976-80)
+Fiesta ST (2014-16)
+Five Hundred
+Focus (all except ST 2013-16)
+Fusion (4-cyl)
+Mustang (4-cyl, 6-cyl, & 4-cyl
+Turbo except SVO) (1964½-
+93)
+Pinto
+Probe (all)
+Taurus (non-SHO)
+Tempo (all)
+Thunderbird (V6, non-S/C)
+(1989-97)
+Thunderbird Turbo Coupe
+ZX2 (non-S/R)
+General Motors
+FWD models (NOC)
+RWD V6 models (NOC)
+Geo
+Metro
+Prizm
+Spectrum
+Storm
+Honda
+600
+800
+Accord (all)
+Civic (all)
+CRX (all)
+CR-Z
+del Sol & Civic del Sol (all)
+Fit
+Insight
+Prelude (all)
+Hyundai
+Accent (1995-2016)
+Elantra (1990-2016)
+Scoupe
+Tiburon
+Veloster (non-turbo) (2012-16)
+NOC
+Infiniti
+G20
+M30
+Isuzu
+I-Mark
+Impulse (non-turbo)
+Stylus
+Jaguar
+120
+140
+150
+X-Type (2.5L) (2002-05)
+Kia
+Forte & Forte Koup (2.0L)
+Forte5 (2014-16)
+Optima
+Rio (2012-16)
+Sephia
+Spectra5
+Lancia
+Beta
+Scorpion
+Lexus
+CT200h (2011-16)
+ES 250
+ES 300
+GS 300
+Lincoln
+LS (V6)
+Lotus
+Cortina
+Mazda
+323 (non-turbo)
+626
+808
+929
+Cosmo
+GLC
+Mazda2 (2011-14)
+Mazda3 (2004-16)
+Mazda6 (all)
+Millenia (all)
+HS (continued)
+2016 SCCA® National Solo® Rules — 171
+Appendix A - Street
+MX-3
+MX-6 (all)
+Protégé (non-Mazdaspeed)
+R100
+RX-2
+RX-3
+RX-4
+Mercedes
+280 (1995-2000)
+NOC
+Mercury
+Bobcat
+Capri (all except V8)
+Cougar (4-cyl & V6 non-S/C)
+LN-7
+Lynx
+Milan (all)
+Montego
+Mystique (all)
+Sable
+Scorpio
+Topaz (all)
+Tracer
+MG
+all
+MINI
+Clubman (non-S, non-JCW)
+(2008-14)
+Cooper Coupe (non-S, non-JCW)
+(2012-15)
+Cooper Hardtop (non-S, nonJCW)
+(2002-13)
+Cooper Roadster (non-S, nonJCW)
+(2012-15)
+Mitsubishi
+3000 GT (non-turbo)
+Cordia
+Eclipse (all, FWD) (1989-2012)
+Galant (4-cyl non-turbo)
+Lancer (non-turbo)
+Mirage
+Precis
+Premier
+Starion (non-turbo)
+Tredia
+Nissan/Datsun
+200SX (all)
+240SX
+300ZX (non-turbo) (1984-89)
+Altima (all)
+Maxima (all)
+NX1600
+NX2000 (1991-93)
+Pulsar
+Sentra (all)
+Stanza
+Versa (2007-16)
+Oldsmobile
+Calais W41
+Opel
+1100
+1900
+GT
+Isuzu
+Manta
+Peugeot
+405 (all)
+505 (1979-91)
+Pininfarina
+2000
+Plymouth
+Acclaim (all)
+Arrow
+Champ
+Colt
+Horizon
+Laser (non-turbo)
+Neon (2000-01)
+Sapporo
+Scamp
+Sundance (all)
+TC3
+Turismo
+Pontiac
+Fiero (4-cyl)
+Firebird (4-cyl & 6-cyl)
+G5 (all)
+G8 (V6) (2008-09)
+LeMans (FWD) (1988-93)
+Sunfire
+T-1000
+Vibe
+Porsche
+356 (non-Carrera)
+912
+924 (Audi engine, non-turbo)
+Renault
+NOC
+Saab
+900 (V6) (1994-97)
+NOC
+HS (continued)
+172 — 2016 SCCA® National Solo® Rules
+Street - Appendix A
+Saturn
+8v
+Astra (2008-09)
+DOHC model (NOC)
+Ion (non-turbo)
+L series (all)
+Scion
+iA (2016)
+iM (2016)
+tC (incl. Release Series 5.0 2009)
+(2005-16)
+xA (2004-06)
+xB (2008-12)
+Shelby
+Charger (non-turbo)
+Subaru
+Impreza 2.0i
+Impreza (NOC)
+Legacy (NOC)
+SVX
+Sedan Turbo (NOC)
+NOC
+Sunbeam
+Alpine
+Suzuki
+Esteem GL
+Forenza
+Kizashi (2010-13)
+Swift
+SX4 sedan (2007-13)
+Toyota
+Camry (all)
+Celica (FWD; NOC)
+Celica (all, non-AWD) (1971-99)
+Corolla
+Cressida
+Echo
+Matrix
+Paseo
+Prius (all)
+Starlet
+Supra (non-turbo) (1979-92)
+Tercel
+Yaris
+Triumph
+all except Stag
+Volkswagen
+air-cooled engine (all)
+diesel engine (non-turbo) (all)
+Beetle (2.0L)
+Dasher
+Eos (2.0T) (2007-16)
+Fox
+Golf, GTI & Jetta (16v non-turbo)
+Golf, GTI & Jetta (8v, all)
+Golf TDI
+Jetta (2.5L) (2005-14)
+Jetta TDI (2005-06, 2009-16)
+New Beetle (NOC)
+Passat (4-cyl non-turbo & V6)
+Quantum
+Rabbit & Rabbit GTI (all, NOC)
+Rabbit (2007-09)
+Scirocco (all)
+VR6 (FWD, NOC)
+Volvo
+C30
+NOC
+Yugo
+all
+“Catch-all”:
+RWD pickup trucks (NOC)
+HS (continued)
+2016 SCCA® National Solo® Rules — 173
+Appendix A - Street
+This class combines high-performance
+production cars with the
+highest performing DOT tires. All
+rules are the same as Section 13,
+Street Category, with the following
+exceptions:
+1. Tires
+Sections 13.3.A.1 (minimum
+UTQG Treadwear Grade), 13.3.A.2
+(minimum molded tread depth),
+and 13.3.A.5 (tires must be designed
+for highway use) does not
+apply. (DOT competition, DOT-R,
+R-comps, etc. tires are eligible.)
+Section 13.3.C.4 (the tire exclusion
+list) is replaced with the following
+list which may be altered
+at any time by the SEB upon
+notification of the membership:
+- Kumho Ecsta W710
+2. Wheels (replacing Section 13.4)
+Any type wheel may be used
+provided it is the same width
+and diameter as standard and as
+installed does not have an offset
+more than ±¼” from the standard
+wheel for the car. The resultant
+change in track dimensions
+is allowed. Wheel spacers are
+permitted provided the resultant
+combination complies with the
+offset requirements of this Section.
+On vehicles supplied with
+an OE wheel spacer, the wheel
+spacer shall be considered as a
+part of the wheel. Wheel studs,
+lug nuts, valve stems Iincluding
+pressure-relief types), and/
+or bolt length may be changed.
+tire pressure monitoring sensors
+(TPMS) may be removed.
+3. Exhaust
+The exit of the exhaust in the
+original location (Section
+13.10.C) is not compulsory.
+4. Participation Requirement
+If in two (2) consecutive SCCA®
+Solo® National Championships
+class SSR fails to achieve attendance
+of 35 total participants in
+both Open and Ladies, the class
+will be eliminated.
+Audi
+TT RS (2012-13)
+Chevrolet
+Corvette Stingray (C7) (2014)
+Corvette (C6, non-ZR1) (2005-13)
+Corvette Z06 (C5) (2001-04)
+Dodge
+Viper (non-ACR) (2008-10)
+Viper GTS (1996-2005)
+Viper R/T (1992-2003)
+Viper SRT-10 (2003-07)
+Lotus
+Elise (non-SC) (2005-11) (see Appendix
+F)
+Evora S (2011-14)
+Exige (non-supercharged) (2006)
+Mercedes-Benz
+AMG (NOC)
+Porsche
+911 (991, non-GT3) (2012-14)
+911 (997 chassis)
+911 GT3 (997 chassis, non-RS)
+911 GT3 (996 chassis)
+911 Turbo (930) (1974-89)
+Boxster S (2009-14)
+Boxster Spyder (2011-12)
+Cayman R (2012)
+Cayman S (2009-14)
+Tesla Motors
+Roadster (all) (2008-13)
+Super Street-R class (SSR)
+2016 SCCA® National Solo® Rules — 175
+Appendix A - Street Touring®
+Audi
+S4
+S5
+TTS quattro (2008-15)
+BMW
+135i
+228i (2014-15)
+3 Series (E9x chassis, NOC incl.
+M3) (2006-13)
+M3 (E36, non-LTW) (1995-99)
+M3 (E46) (2000-05)
+Chevrolet
+Camaro (N/A)
+Corvette (C4, excl. LT4 engine &
+ZR1) (1984-96)
+Corvette (C5, non-Z06) (1997-
+2004)
+Dodge
+Challenger (V8, N/A) (2008-15)
+Charger (V8, N/A) (2006-15)
+Ford
+Mustang (N/A)
+Mustang EcoBoost (2015-16)
+Hyundai
+Genesis (V6)
+Genesis (2.0T 4-cyl) (2013-16)
+Infiniti
+G35 Coupe
+G37
+Lexus
+IS F
+Mazda
+Mazdaspeed Miata (2004-05)
+Mercedes-Benz
+CLK430 (1999-2003)
+CLK55 (2001-06)
+Mitsubishi
+Lancer Evolution
+Lancer Ralliart (2008-10)
+Nissan
+300ZX Turbo (1984-89)
+350Z (non-NISMO)
+Pontiac
+GTO
+Firebird (N/A)
+Porsche
+Boxster (986 and 987.1, base
+model) (1997-2008)
+Boxster S (986) (2000-04*)
+Cayman (987.1; base model)
+(2007-08)
+Subaru
+Impreza WRX STI
+Impreza WRX (2009-14)
+Volvo
+S60R
+“Catch-all”:
+Sedans & Coupes NOC (nonsports-car-based;
+4-seat
+minimum; over 5.1L normally
+aspirated or 2.0L to 3.1L
+forced induction)
+STREET TOURING® CATEGORY
+Street Touring® Ultra (STU)
+*April 2016 Fastrack News page 11
+176 — 2016 SCCA® National Solo® Rules
+Street Touring® - Appendix A
+BMW
+M Coupe (1998-2002)
+M Roadster (1998-2002)
+Z3 (6-cyl)
+Z4 (non-turbo, non-M)
+Datsun
+240Z
+260Z
+280Z
+280ZX (non-turbo)
+Honda
+S2000
+Mazda
+Miata (non-turbo) (1994-2005)
+MX-5 Miata (2006-15)
+MX-5 Miata (2016)
+RX-7 GSL
+RX-7 GSL-SE
+RX-7 GXL
+RX-7 GTU (1988)
+Nissan
+370Z (non-NISMO) (2009-16)
+Pontiac
+Fiero (V6)
+Solstice (non-turbo)
+Porsche
+911 Carrera (3.2L) (1984-89)
+911 SC (3.0L) (1978-83)
+924
+944 (non-turbo)
+968
+Toyota
+MR2 Spyder
+MR2 Supercharged (1988-89)
+Saturn
+Sky (non-turbo)
+Acura
+ILX (2013-16)
+Integra (non-Type R) (1994-2001)
+Integra Type R
+Audi
+A3
+A4
+TT quattro
+BMW
+128i (2008-13)
+3 Series (E30 chassis, incl. M3)
+3 Series (E36 chassis, non-M)
+3 Series (E46 chassis, non-M)
+3 Series (E9x chassis, non-M,
+non-turbo) (2006-13)
+M5 (E39) (1998-2003)
+Chevrolet & GMC
+Cobalt (2.4L N/A, 2.0L S/C, &
+2.0T)
+S10 (4-cyl & 6-cyl, N/A)
+Dodge
+Challenger (V6) (2008-16)
+Charger (V6) (2006-16)
+Dakota (4-cyl & 6-cyl, N/A)
+Dart (1.4L Turbo & 2.4L N/A)
+(2013-16)
+SRT-4 (2003-05)
+Eagle
+Talon Turbo (AWD)
+Fiat
+500 Abarth
+500 Turbo (2013-16)
+Ford
+Fiesta ST
+Focus ST
+Ranger (4-cyl & 6-cyl, N/A)
+GMC
+Sonoma (4-cyl & 6-cyl, N/A)
+Honda
+Civic Si (2006-15)
+Hyundai
+Genesis (2.0L Turbo) (2010-12)
+Infiniti
+G35 Sedan
+Street Touring® Roadster (STR) Street Touring® Xtreme (STX)
+2016 SCCA® National Solo® Rules — 177
+Appendix A - Street Touring®
+Kia
+Forte (Turbo)
+Forte Koup (Turbo)
+Lexus
+IS 250
+IS 300
+IS 350
+SC300
+Mazda
+MazdaSpeed3
+MazdaSpeed6
+MazdaSpeed Protégé
+RX-8
+MINI
+Cooper (non-S) (2014-15)
+Cooper S & Cooper S JCW (incl.
+2004-05 dealer-installed)
+Mitsubishi
+Eclipse (V6) (2006-12)
+Eclipse Turbo (AWD)
+Nissan
+240SX
+300ZX (non-turbo) (1984-96)
+Juke (all) (2011-16)
+Sentra SE-R (2000-12)
+Sentra SE-R Spec V
+Pontiac
+G5 (2.4L, 2.0L S/C, & 2.0L Turbo)
+Saab
+9-3 (non-Viggen) (1998-2012)
+Saturn
+Ion (2.4L & 2.0L S/C)
+Scion
+FR-S
+Subaru
+BRZ
+Forester XT (2003-08)
+Impreza WRX (non-STI) (2002-
+08, 2015-16)
+Legacy GT (2005-08)
+Toyota
+Supra (non-turbo) (1993-98)
+Tacoma (1995-2016)
+Volkswagen
+Beetle (2.0T)
+Corrado (all)
+Golf, Golf R, GTI (2.0T)
+Jetta (2.0T)
+Passat (2.0T, VR6, & W8)
+R32
+Volvo
+240 Turbo (1981-85)
+C30
+“Catch-all”:
+Sedans & Coupes NOC (nonsports-car-based,
+4-seat minimum;
+3.1L to 5.1L normally
+aspirated or up to 2.0L forced
+induction)
+STX (continued)
+178 — 2016 SCCA® National Solo® Rules
+Street Touring® - Appendix A
+Acura
+Integra (1986-93)
+Audi
+A4 (1.8T)
+TT Coupe & Roadster (FWD)
+BMW
+Z3 (4-cyl)
+Chevrolet
+Sonic (Turbo) (2012-15)
+Sprint (1985-88)
+Chrysler/Plymouth/Dodge
+Neon (all) (1995-2000)
+Neon R/T & ACR (2001-04)
+Ford
+Escort GT (1991-96)
+Fiesta (1.0L Ecoboost)
+ZX2 & Excort ZX2 (1998-2003)
+Honda
+Accord (1994-97)
+Accord (6-cyl) (1998-2013)
+Civic (1984-2000)
+CRX
+del Sol & Civic del Sol
+Hyundai
+Accent (2012-15)
+Tiburon (V6) (2003-08)
+Kia
+Rio (2012-15)
+Mazda
+323, 323 GT, & 323 GTX
+Miata (non-Torsen differential)
+(1990-97)
+Protégé (NOC) (1999-2003)
+Protégé MP3
+RX-7 (non-turbo, NOC)
+Nissan
+200SX SE-R (1995-98)
+Sentra (1.6L, 1.8L, 2.0L) (1991-
+2012)
+NX2000 (1991-94)
+Pontiac
+Fiero (4-cyl)
+Porsche
+914 (4-cyl)
+Saturn
+SL
+SW
+SC
+Subaru
+Impreza (1.8L, FWD) (1993-96)
+Impreza 2.5 RS (1998-2001)
+Legacy (1990-94)
+Suzuki
+Swift (N/A) (1994)
+Toyota
+Celica (non-turbo) (1986-2005)
+Corolla (1984-97*)
+Echo (2000-05)
+MR2 (non-supercharged) (1985-
+89)
+MR2 (non-turbo) (1991-95)
+Volkswagen
+Beetle (1.8T & TDI)
+Golf (1.8T)
+Golf & Jetta (TDI) (2007-15)
+Jetta (1.8T)
+Passat (1.8T & TDI)
+Rabbit, Golf, GTI, Cabrio (1974-
+92)
+Volvo
+240 Turbo (1981-85)
+S40 (non-T5)
+V40
+“Catch-all”:
+Sedans & Coupes NOC (nonsports-car-based;
+4-seat
+minimum; up to 3.1L normally-aspirated)
+Street Touring® Sport (STS)
+*April 2016 Fastrack News page 10
+2016 SCCA® National Solo® Rules — 179
+Appendix A - Street Touring®
+Street Touring® FWD (STF)
+Acura
+RSX
+TSX
+Chevrolet
+Cobalt (2.2L, N/A)
+Cruze (2008-15)
+Spark
+Sonic (non-turbo) (2012-15)
+Volt (2011-15)
+Chrysler, Plymouth, & Dodge
+Neon (NOC) (2001-04)
+Dodge
+Dart (2.0L N/A) (2013-15)
+Fiat
+500 (non-turbo) (2012-15)
+Ford
+Fiesta (N/A) (2011-15)
+Focus (non-turbo)
+Honda
+Accord (4-cyl) (1998-2015)
+Civic (non-Si) (2006-15)
+Civic (all) (2001-05)
+CR-Z
+Fit
+Insight
+Hyundai
+Elantra (2001-15)
+Veloster (non-turbo) (2011-15)
+Kia
+Forte (N/A)
+Forte Koup (N/A)
+Lexus
+CT200H (2011-15)
+Mazda
+Mazda2
+Mazda3
+Mazda6
+MINI
+Cooper (non-S) (2000-13)
+Mitsubishi
+Lancer (non-turbo)
+Nissan
+Versa (2007-13)
+Pontiac
+G5 (2.2L)
+Vibe (2003-10)
+Saturn
+Astra
+Ion (2.2L)
+Scion
+iA (2016)
+iM (2016)
+iQ CVT
+tC
+xA
+xB
+xD (2008-13)
+Subaru
+Impreza 2.0i (2012-15)
+Toyota
+Corolla (2003-15)
+Matrix (2003-13)
+Yaris
+Volkswagen
+Golf (2.5L)
+Golf & Cabrio (2.0L, 8v) (1998-
+2006)
+Golf & Jetta TDI (1999-2006)
+Beetle (2.0L, 8v) (1998-2005)
+Beetle (2.5L 5-cyl)
+Jetta (2.0L, 8v) (2000-04)
+Jetta (2.5L 5-cyl)
+Street Touring® Pony car (STP)
+Supplemental Class
+Chevrolet
+Camaro (SS, V6, & 1LE) (2010-15)
+Camaro (SS, Z28, & V6) (1993-
+2002)
+Camaro (fuel injection, N/A)
+(1982-92)
+Dodge
+Challenger (N/A) (2008-15)
+Charger (N/A) (2006-15)
+Ford
+Mustang (GT, V6, & Ecoboost 2.3T)
+(2015-16)
+Mustang (GT & V6) (2005-14)
+Mustang (GT & V6) (1994-2004)
+Mustang (fuel injected, N/A)
+(1979-93)
+Pontiac
+Firebird (LS1, LT1, & V6 engine)
+(1993-2002)
+Firebird (fuel injected, N/A)
+(1982-92)
+“Catch-all”:
+American V8-powered, RWD
+sedans must be naturally-aspirated
+with a wheelbase greater
+than 100.0” and a listed curb
+weight greater than 3200 lbs.,
+NOC (not eligible for National
+level competition)
+2016 SCCA® National Solo® Rules — 181
+Appendix A - Street Prepared
+Audi
+R8 (except GT) (2008-15)
+TT RS (2012-13)*
+Chevrolet
+Corvette (C5 chassis) (1997-
+2004)
+Corvette (C6 chassis) (2005-13)
+Dodge
+Viper
+Elva
+Courier
+Ferrari
+355
+360
+Dino 206 & 246 (all)
+F430 (all)
+Ford
+GT
+Griffith
+(all)
+Lamborghini
+Gallardo (all) (2003-11)
+Huracan (all) (2014-16)*
+Lotus
+7 & 7A
+Elan (RWD)
+Elan M100 (FWD, all)
+Europa (all)
+Elise, Exige, & Exige S (2005-11)
+Elite 2+2 & Elcat
+Esprit (4-cyl, all)
+Esprit (V8)
+Evora & Evora S (2010-14)
+Morgan
+V8 (all)
+Nissan
+GT-R (R35)
+Porsche
+911 Turbo & Turbo S (AWD)
+(2001-13)
+911 GT2 (996 & 997 chassis, all)
+911 GT3 (996 & 997 chassis, all)
+Cayman GT4 (2016)*
+Tesla
+Roadster (2008-12)
+TVR
+4-cyl & 6-cyl (all)
+V8 (all)
+“Catch-all”:
+Sports car over 2.0L not otherwise
+classified.
+(See Section 15.1.C for update/backdate
+limitations.)
+STREET PREPARED CATEGORY
+Super Street Prepared (SSP)
+*April 2016 Fastrack News page 11
+182 — 2016 SCCA® National Solo® Rules
+Street Prepared - Appendix A
+Acura
+NSX (1990-2005)
+Audi
+A4 (2008-16)
+S4 (2000-03)
+S4 (2010-16) & S5 (2013-16)
+BMW
+128, 135, 1 Series M (2008-13)
+328, 335 (2006-13)
+M235i (2014-16)
+Z4 sDrive35i, sDrive35is (2012-
+13)
+Z8
+Bricklin
+Chevrolet
+Camaro ZL1 (2012-13)
+DeLorean
+DeTomaso
+Mangusta (all)
+Pantera (all)
+Dodge
+Stealth Turbo
+Ferrari
+250 (non-LM)
+275
+308 Coupe, Spider
+330
+365 Daytona GTB, GTC
+348
+Ford
+Mustang Shelby GT350/GT350R
+(S550) (2015-16)
+Mustang Shelby GT500 (S197)
+(2011-14)
+Jaguar
+E-type (all)
+Mazda
+RX-7 (1993-95)
+Mercedes-Benz
+CLK 320, CLK 32 AMG
+E36 AMG (2010-16)
+SLK55 AMG (R171 chassis)
+(2004-11)
+Mitsubishi
+Lancer Evolution (VIII, IX) (2003-
+07)
+Lancer Evolution (X), Ralliart
+(2008-13)
+3000GT Turbo
+Mitsubishi & Eagle
+Eclipse Turbo & Talon Turbo
+(1989-99)
+Nissan
+370Z (all) (2009-13)
+Plymouth
+Laser RS Turbo AWD (1992-94)
+Pontiac & Saturn
+Solstice GXP, Sky Redline
+Porsche
+911 Turbo (1976-89)
+911 Turbo (964 chassis) (1990-
+94)
+911 Turbo (993) (1996-97)
+911 (996, 997 chassis) (1999-
+2012)
+Boxster, Cayman (all)
+Shelby
+Cobra 289
+Subaru
+Impreza WRX (incl. STI) (2002-
+14), Legacy (Turbo) (2004-
+14), & Forester XT (2004-14)
+Impreza WRX (incl. STI) (2015-
+16)
+Sunbeam
+Tiger (260, 289)
+Toyota
+MR2 (all incl. Turbo) (1991-95)
+Supra Turbo (1993½-98)
+Volvo
+S60R & V70R (2004-07)
+A Street Prepared (ASP)
+2016 SCCA® National Solo® Rules — 183
+Appendix A - Street Prepared
+Audi
+TT (1.8T, FWD & quattro)
+TT (3.2L, quattro)
+TTS (2009-13)
+Quattro Turbo Coupe
+BMW
+320i (F30 chassis) (2012-16)
+M Coupe, M Roadster, & Z3 (6-cyl,
+all)
+M3 (E36 chassis, all)
+M3 (E46 chassis)
+Z4 (non-turbo, all incl. M)
+Chevrolet
+Corvette (1953-54)
+Corvette (1955-57)
+Corvette (1958-62)
+Corvette (1963-67)
+Corvette (1968-82)
+Corvette (1984-96) (all)
+Chrysler
+Crossfire SRT6
+Honda
+S2000
+Mazda
+MazdaSpeed Miata
+RX-7 Turbo (1986-92)
+Nissan & Datsun
+240Z, 260Z, & 280Z
+280ZX & 280ZX Turbo
+300ZX Turbo (1984-89)
+300ZX Turbo (1990-96)
+350Z (all)
+Pontiac
+Fiero (V6)
+Firebird Firehawk SLP (3rd gen,
+383cid) (1990-92)
+Firebird Firehawk SLP (4th gen,
+383cid) (1993-2002)
+Porsche
+911 (non-turbo) (1965-89)
+911 (964 & 993)
+911 (non-turbo, NOC)
+914/6 (all)
+924 (all incl. Turbo)
+944 (all incl. Turbo)
+928
+968
+Saleen
+Mustang S281E & Mustang (NOC)
+Triumph
+TR-8
+Volkswagen
+Golf R (2012-13)
+B Street Prepared (BSP)
+184 — 2016 SCCA® National Solo® Rules
+Street Prepared - Appendix A
+BMW
+Z3 (4-cyl)
+M3 (E30 chassis)
+Datsun
+Roadster (1500, 1600, & 2000)
+Fiat
+Abarth (NOC)
+124 Spider (1975-78) & 2000
+Spider (non-turbo)
+2000 Spider Turbo
+Ford
+Fiesta ST (2014-16)
+Honda
+Civic & CRX (1988-91)
+Lancia
+Scorpion
+Lotus
+Cortina
+Elite (1216cc)
+Mazda
+MX-5 Miata (1990-2005)
+MX-5 (2006-13)
+RX-2 & 616
+RX-3, RX-3SP, & 808 Mizer
+RX-7 (non-turbo) (1978-85)
+RX-7 (non-turbo) (1986-92)
+Mercedes-Benz
+190E (16v)
+Morgan
+4/4
+Pininfarina
+2000
+Pontiac & Saturn
+Solstice & Sky
+Porsche
+356 & 1600
+924S & 944 (8v)
+Carrera (4-cyl)
+Scion & Subaru
+FR-S & BRZ (2013-14)
+Toyota
+MR-2 & MR-2 Supercharged (1st
+gen) (1985-89)
+MR2 Spyder (2000-05)
+“Catch-all”:
+Sedan over 1.7L & under 3.0L not
+otherwise classified.
+Sports car under 2.0L not otherwise
+classified.
+(See Section 15.1.C for update/backdate
+limitations.)
+C Street Prepared (CSP)
+2016 SCCA® National Solo® Rules — 185
+Appendix A - Street Prepared
+Acura
+Integra (1990-93)
+Integra (incl. Type R) (1994-01)
+RSX (all)
+TSX
+Alfa Romeo
+GTV V6 (all)
+Milano
+Audi
+A3 (2005-13)
+A4 (1.8T, FWD & quattro) (1995-
+01)
+A4 (1.8T, FWD & quattro) (2002-
+05)
+Coupe GT & Quattro (1980-88)
+BMW
+318 (16v) & 325 (E30 chassis)
+323, 325, & 328 (E36 chassis)
+323, 325, 328 & 330 (E46 chassis,
+non-M3)
+3 Series (16v, NOC)
+Bavaria
+Chevrolet, Pontiac, Buick,
+Oldsmobile, & Geo
+Cobalt SS (N/A) (2005-07)
+Cobalt SS Supercharged (2005-
+07)
+Cobalt SS Turbo (2008-10)
+HHR SS Turbo
+J Body (4-cyl Turbo, Quad 4
+DOHC, & V6)
+L Body (Quad 4 & V6)
+N Body (4-cyl Turbo, Quad 4, &
+V6)
+Spectrum Turbo (1985-89)
+Storm GSi (1985-89)
+X Body (V6)
+Chrysler, Plymouth, & Dodge
+Acclaim (V6 & Turbo)
+Charger GLH-S
+Conquest & Starion (non-turbo)
+Crossfire (non-SRT-6)
+Daytona Turbo
+Daytona (V6)
+GLH-S & GLH Turbo
+Laser Turbo (NOC) & K-car Turbo
+Shadow (4-cyl Turbo & V6)
+Shelby Charger Turbo
+Spirit (4-cyl Turbo & V6)
+SRT-4
+Sundance Turbo
+Dodge & Mitsubishi
+Colt Turbo & Mirage Turbo
+(1984-88)
+Colt Turbo & Mirage Turbo
+(1989-92)
+Eagle
+Summit Turbo (16v) (1989-90)
+Fiat
+500 Abarth (2012-13)
+Ford & Mercury
+Capri (4-cyl & 6-cyl) (1971-77)
+Capri (1991-95)
+Contour SVT
+Cougar (1999-2002)
+Focus ST (2013-15)
+Fusion & Milan (6-cyl) (2006-13)
+Probe (Turbo & V6)
+Honda
+Civic Si (1999-2000)
+Civic Si (2002-05)
+Civic Si (2006-12)
+Del Sol (DOHC)
+Prelude 4WS
+Prelude (1992-2001) (NOC)
+Hyundai
+Tiburon
+Isuzu
+I-Mark LS (16v & Turbo, FWD)
+(1985-89)
+I-Mark RS (16v & Turbo, FWD)
+Impulse RS Turbo (AWD) (1990-
+93)
+Impulse Turbo & RS (RWD)
+(1983-89)
+Impulse XS (16v non-turbo)
+(1990-93)
+Impulse (16v & Turbo)
+Stylus XS & RS (16v) (1990-93)
+Kia
+Forte Koup (2010-12)
+Lexus
+IS 300
+Maserati
+BiTurbo
+D Street Prepared (DSP)
+186 — 2016 SCCA® National Solo® Rules
+Street Prepared - Appendix A
+Mazda
+323 GT & GTX (AWD)
+Mazda6 (6-cyl)
+MazdaSpeed3
+MazdaSpeed Protege
+MX-6 (Turbo & V6)
+RX-8
+Spec Miata (See 15.0 for preparation
+allowance requirements)
+Mercedes
+190 (all) (1984-93)
+C230
+Merkur
+XR4Ti
+MINI
+Cooper S (including JCW & JCW
+GP except Countryman)
+Mitsubishi
+Cordia Turbo
+Eclipse (2000-12)
+Galant (all)
+Tredia Turbo
+Nissan & Datsun
+200SX Turbo
+200SX (V6)
+240SX
+Altima (2007-13)
+Maxima
+Pulsar (16v)
+Pulsar NX Turbo
+Sentra (2.0L) (2000-01)
+Sentra (B15 chassis) (2002-06)
+Sentra (B16 chassis) (2007-12)
+Peugeot
+505 (all) (1979-91)
+Pontiac & Toyota
+Corolla XRS (2005-06), Matrix
+XRS (2003-06), & Vibe GT
+(2003-06)
+Matrix & Vibe (AWD) (2003-08)
+Porsche
+914 (4-cyl)
+Renault
+Fuego Turbo
+R5 Turbo
+Saab
+99, 99 EMS, & 99 Turbo
+900 & 900 Turbo (1979-93)
+900 & 900 Turbo (1994-98)
+Saturn
+Ion (all) & NOC
+Subaru
+Impreza (all) (1993-2001)
+Impreza (2.5L) (NOC)
+Legacy & Outback (6-cyl, all)
+(1998-2004)
+Legacy & Outback (6-cyl, all)
+(2005-13)
+Toyota
+Camry V6
+Celica (2000-05)
+Celica All-Trac (all)
+Supra (1979-81)
+Supra (1982-86)
+Volkswagen
+Golf, Jetta, & New Beetle (1.8T,
+Mk4 chassis) (1999-2005)
+Golf, GTI, GLI, & Jetta (2.0T)
+(2006-13)
+New Beetle Turbo
+Passat VR6
+R32
+Volvo
+240 Series Turbo (all)
+C30 (2006-09)
+S40 (1995-2004)
+S40 (2005-11)
+“Catch-all”:
+6-cyl (normally aspirated) or 4-cyl
+(mechanically forced induction)
+2WD sedan under 3.0L not otherwise
+classified.
+(See Section 15.1.C for update/backdate
+limitations.)
+DSP (continued)
+2016 SCCA® National Solo® Rules — 187
+Appendix A - Street Prepared
+AMC
+AMX & Javelin (all)
+Audi
+5000 Turbo, 5000 Turbo quattro,
+200, & 200 quattro
+A8 & A8 quattro
+S4, RS4 (2004-09)
+V8 quattro
+BMW
+2500 & 2800 (all)
+3.0S & CS (all)
+528, 530, & 533 (non-turbo)
+633i & 733i (all)
+M3 (2007-13)
+Chevrolet, Pontiac, Buick, &
+Oldsmobile
+Camaro & Firebird (1967-70)
+Camaro & Firebird (1970½-81)
+Camaro, Firebird, & Firehawk
+(1982-92) (3rd gen)
+Camaro, Firebird, SS, Firehawk, &
+WS6 (1993-2002) (4th gen)
+Camaro (non-ZL1) (2010-15)
+Chevelle (1964-67)
+Chevelle (1968-72)
+Corvair Yenko Stage I, II, & III (all)
+Lumina
+Monza (V8) & Skyhawk (V6)
+Reatta
+Regal(1980-88) (V6 & V8, RWD)
+Starfire & Sunbird (V6, all)
+Trans Am Turbo (1982-92)
+Chrysler, Plymouth, & Dodge
+Barracuda (1965-69) & Dart,
+Duster, & Valiant (1963-76)
+(A-body)
+Barracuda & Challenger (E-body)
+(1970 -74)
+Challenger (2008-13)
+Challenger (6-cyl & V8, NOC)
+Charger (2006-13)
+Conquest Turbo
+Laser (Turbo, all) (1989-99)
+Stealth (non-turbo)
+Dakota (1997-04)
+Ferrari
+400 America (all)
+500 Superfast (all)
+Ford & Mercury
+Cougar (1965-70)
+Cougar (1971-74)
+Mustang (1964½ -66)
+Mustang & Cougar (1967-68)
+Mustang & Cougar (1969-70)
+Mustang & Cougar (1971-73)
+Mustang II (all) (1974-78)
+Mustang, SVO, Cobra, Cobra R
+(1979-93) & Capri (1979-86)
+(4-cyl Turbo, V6, & V8)
+Mustang (SN95 chassis, NOC
+including Cobra & Cobra R)
+(1994-2004)
+Mustang (S197 incl. Boss 302,
+Boss 302 Leguna Seca, & Shelby
+GT500 2007-10) (2005-13)
+Mustang (non-GT350) (2015-16)
+Taurus SHO
+Thunderbird & Cougar (1983-88)
+Thunderbird & Cougar (1989-97)
+Hyundai
+Genesis (2009-12)
+Infiniti
+G35
+G37
+M30
+Q45
+Jaguar
+Sedans (6-cyl & 12-cyl)
+XJS (all)
+XK 120, 140, 150, & 160
+Lexus
+ES 250
+GS 400, LS 400, & SC 400
+Mazda
+929
+MazdaSpeed6
+Mercedes
+230SL, 250SL, & 280SL (all)
+350SL, 380SL, & 450SL (all)
+220, 230, 250, & 280 Sedans (all)
+280 (4.5L, all) & 300 (6.3, all)
+Sedans
+Mitsubishi
+3000 GT (non-turbo)
+Starion Turbo
+E Street Prepared (ESP)
+188 — 2016 SCCA® National Solo® Rules
+Street Prepared - Appendix A
+Nissan
+300ZX (non-turbo) (1984-89)
+300ZX (non-turbo) (1990-96)
+Peugeot
+405
+Saab
+SPG (16v & Turbo)
+Saleen
+Mustang 302 & 351 (non-supercharged)
+(1984-93)
+Shelby
+GT350 (1965-66)
+GT350 & GT500 (1967-70)
+Subaru
+Forester 2.5XT
+Legacy 2.5GT (2005-12)
+Toyota
+Supra (all) (1986½-92)
+Supra (non-turbo) (1993-96)
+Volvo
+700 Series (all)
+800 Series (all)
+S60 & V70
+Volkswagen
+Passat W8 4Motion
+“Catch-all”:
+American 6-cyl & V8 sedan or pickup
+not otherwise classified.
+Other sedan over 3.0L not otherwise
+classified.
+(See Section 15.1.C for update/backdate
+limitations.)
+Acura
+Integra (1986-89)
+Legend
+Alfa Romeo
+1300 (all)
+1600 (all)
+1750 (all)
+2000 (all)
+Alfetta GT
+AMC
+(4-cyl, all)
+Audi
+80 (all)
+90 (all)
+100LS (all)
+4000 (all)
+5000
+Austin
+America (all)
+Mini & Mini Cooper (850, 970,
+997, 998, 1071, & 1275, all)
+Austin-Healey
+Sprite (all)
+100-4, 100-6, & 3000
+BMW
+1600
+1800ti & 1800 TiSA
+1600-2, 1602, & 2002 (+ tii)
+318i (8v, E30 chassis)
+318i & 318is (E36 chassis)
+318ti (E36 chassis)
+320i (E21 chassis) (1975-83)
+Chevrolet, Pontiac, Buick,
+Oldsmobile, Geo, & Suzuki
+Beretta (4-cyl)
+Camaro (4-cyl) (1982-86)
+Cavalier (4-cyl OHV) (1992-2002)
+Chevette & T1000
+Citation & Omega
+Corvair (non-Yenko)
+Fiero (4-cyl)
+Firebird (4-cyl) (1982-86)
+Metro & Swift (1985-88)
+Metro & Swift (1989-93)
+Monza (NOC), Starfire, Omega,
+Astre, & Skyhawk (RWD)
+Phoenix & Skylark
+ESP (continued) F Street Prepared (FSP)
+2016 SCCA® National Solo® Rules — 189
+Appendix A - Street Prepared
+Prism
+S-10 (1994-2004)
+Spectrum (1.5L non-turbo)
+(1985-89)
+Spectrum (NOC)
+Sprint & Sprint Turbo
+Storm (all)
+Sunbird (4-cyl)
+Vega & Cosworth Vega
+Chrysler, Plymouth, & Dodge
+Acclaim (4-cyl non-turbo)
+Arrow 1600, 2000, & 2600
+Champ (non-turbo, all)
+Colt (non-turbo, FWD)
+Colt (8v non-turbo)
+Colt (1600 & 2000, RWD)
+Daytona (non-turbo)
+Horizon, TC3, & Turismo (1.7L,
+1.8L, & 2.2L)
+Laser (non-turbo) (1989-99)
+Neon (all) (1994-05)
+Omni, 024, & Charger
+Rampage (2.2L)
+Sapporo (1600, 2000, & 2600)
+Shelby (2.2L non-turbo) (1983-
+84)
+Spirit (4-cyl non-turbo)
+Dodge, Mitsubishi, & Eagle
+Colt & Mirage (non-turbo) (1984-
+88)
+Colt, Mirage, & Summit (nonturbo)
+(1989-92)
+Colt, Mirage, & Summit (nonturbo)
+(1993-96)
+Eagle
+Talon (non-turbo) (1989-99)
+Fiat & Bertone
+124 (1966-74)
+128
+131 & Brava
+850 Sedan
+850 Coupe & Spider
+Strada
+X1/9 (all)
+Ford & Mercury
+Capri II (1976-77)
+Cortina
+Escort, EXP, Lynx, & LN7 (1981-
+90)
+Escort, Escort GT, & Tracer
+(1991-96)
+Escort, ZX2, & Tracer (1997-
+2002)
+Festiva
+Fiesta (1976-80)
+Focus (all) (1999-2007)
+Fusion & Milan (4-cyl)
+Mustang II (4-cyl) (1974-78)
+Mustang & Capri (4-cyl nonturbo)
+Pinto & Bobcat (4-cyl)
+Pinto Wagon (2000, 2300, &
+2600)
+Probe (4-cyl non-turbo)
+Honda
+Accord (1976-81)
+Accord (1982-12)
+Civic (1973-79)
+Civic (1980-83)
+Civic & CRX (all) (1984-87)
+Civic (1992-95) & Del Sol (1992-
+96) (SOHC)
+Civic (non-Si) (1996-2000)
+Civic (non-Si) (2001-05)
+Civic (non-Si) (2006-12)
+Fit
+Prelude (1979-82)
+Prelude (1983-87)
+Prelude (1988-91)
+Hyundai
+Elantra
+Excel
+Scoupe
+NOC (all)
+Infiniti
+G20
+Isuzu
+I-Mark (1.5L non-turbo)
+FWD models (1985-89)
+I-Mark RS (16v) (1985-89)
+I-Mark (RWD) (1980-85)
+Impulse (non-turbo) (1983-89)
+Stylus S (12v) (1990-93)
+FSP (continued)
+190 — 2016 SCCA® National Solo® Rules
+Street Prepared - Appendix A
+Jensen-Healey
+Kia
+Spectra (1.8L 4-cyl)
+Lancia
+Beta & Zagato (1975-83)
+Mazda
+Mazda2
+Mazda3
+323 (non-turbo) (1986-89)
+323, MX-3 (4-cyl), & Protégé
+(1990-94)
+626 (FWD, all)
+626 (RWD, all)
+Cosmo (all)
+GLC (FWD, all)
+GLC (RWD, all)
+MX-6 (4-cyl non-turbo)
+Protégé (1995-98)
+Protégé (1999-2003)
+R-100
+RX-4
+MG
+1100, 1300 Sedan (all)
+A (all)
+B & B GT (all)
+C & C GT (all)
+Midget (948, 1098, 1275, & 1500,
+all)
+MINI
+Cooper (non-S) (2002-13)
+Mitsubishi
+Cordia (non-turbo)
+Eclipse (1989-99) (non-turbo)
+Lancer (non-turbo)
+Mirage (1997-2002) (non-turbo)
+Tredia (non-turbo)
+Morgan
++4 (2138 cc, all)
+Nissan & Datsun
+1200
+200SX (1976-79)
+200SX (1980-83)
+200SX (1984-88)
+200SX SE-R
+210
+310
+510 (1968-73)
+510 (1978-81)
+610
+710
+B210
+F-10
+NX1600
+NX2000, Pulsar, Sentra, & Sentra
+SE-R (1991-94)
+Pulsar & Pulsar NX (non-turbo,
+all)
+Sentra (1.8L) (2000-06)
+Sentra (2.0L) (1995-99)
+Stanza (all)
+Versa (2007-16)
+Opel
+1900 & Manta
+GT 1100
+GT 1500 & 1900
+Kadett 1100
+Kadett 1500 & 1900
+Pontiac & Toyota
+Corolla, Matrix, & Vibe (2003-08)
+(NOC)
+Peugeot
+405 DL & 405 S
+Porsche
+912
+912E
+924 (Audi engine)
+Renault
+15 & 17 (all)
+16 (all)
+17 Gordini
+18i (all)
+Alliance, GTA & Encore
+Fuego (non-turbo)
+R-5 (NOC) & LeCar
+Saab
+Sonnet (1968-74)
+Saturn
+SL (1991-95), SW (1993-95), &
+SC (1991-96)
+SL (1996-99), SW (1996-99), &
+SC (1997-2000)
+SL (2000-02), SW (2000-02), &
+SC (2001-02)
+FSP (continued)
+2016 SCCA® National Solo® Rules — 191
+Appendix A - Street Prepared
+Scion
+tC
+Sunbeam
+Alpine (all)
+Subaru
+Turbo 4WD (all, NOC)
+Forester (non-turbo)
+Impreza 2.0i (2012-13)
+Legacy & Legacy GT
+Suzuki
+Aerio
+Toyota
+Camry (4-cyl)
+Celica (1970-77)
+Celica (1978-81)
+Celica (1982-85)
+Celica (FWD) (1986-89)
+Celica (FWD) (1990-93)
+Celica (1994-99)
+Corolla 1200
+Corolla (1600 & SR-5) (1970-79)
+Corolla (1600 & 1800, RWD)
+(1980-83)
+Corolla (AE86 chassis, all) (1984-
+87)
+Corolla FX16
+Corolla GTS (AE92 chassis, FWD)
+(1990-91)
+Starlet
+Tercel
+Yaris
+Triumph
+GT-6
+Herald (all)
+Spitfire
+TR-2 & TR-3
+TR-4 & TR-4A
+TR-250 & TR-6
+TR-7
+Volkswagen
+Beetle (RWD)
+Cabriolet (1985-92)
+Corrado (all)
+Dasher & Quantum (4-cyl, all)
+Fox GL
+Golf & Jetta (all, A2 chassis)
+(1985-93)
+Golf, Jetta, & Cabrio (8v, A3 chassis)
+(1993-98)
+Golf & Jetta (VR6, A3 chassis)
+Golf & Jetta (VR6, NOC, A4 chassis)
+Golf, Jetta, & Beetle TDI
+Karmann Ghia
+Passat (all, NOC)
+Rabbit, Jetta, Scirocco, Cabriolet,
+& Pickup (all, A1 chassis)
+(1975-92)
+Rabbit (2.5L 5-cyl, A5 chassis)
+(2006-09)
+Volvo
+120 Series (all)
+140 Series (all)
+160 Series (all)
+1800, P1800, & ES1800 (all)
+240 Series (non-turbo, all)
+260 Series (all)
+700 Series (all)
+Yugo
+“Catch-all”:
+Sedan under 1.7L not otherwise
+classified
+4-cyl or rotary RWD mini-pickup
+(See Section 15.1.C for update/backdate
+limitations.)
+FSP (continued)
+2016 SCCA® National Solo® Rules — 193
+Appendix A - Street Modified
+Engine Classifications
+1. 4-stroke cycle and 2-stroke cycle naturally aspirated internal combustion
+engines will be classified on the basis of actual piston displacement.
+2. Supercharged/turbocharged SM and SSM engines will be classified on a
+basis of adding 1.4L to the actual displacement. Forced induction SMF engines
+will add 1.0L to the actual displacement.
+3. Rotary Engines (Wankel): These units will be classified on the basis of a
+piston displacement equivalent to 0.9 liters times the number of rotors,
+plus the volume determined by the difference between the maximum and
+minimum capacity of the working chamber times the number of rotors.
+4. Electric Motors: Cars with electric motors, in whole or part of the drivetrain,
+will run at class maximum weight (2900 lbs. for SSM, 3100 lbs for
+SM/SMF). Category weight adjustments (e.g., tire size) are allowed.
+Weight Adjustments
+Cars running tires with a rated width of 275 mm or less on all four wheels
+may compete at a minimum weight 200 lbs. less than their calculated
+weight.
+Super Street Modified class (SSM)
+Eligible Vehicles:
+• All 2-seat cars not excluded below
+• All SM/SMF eligible sedans/coupes and those excluded from SM for
+failure to meet weight requirements.
+• All SM eligible vehicles
+• McLaren MP4-12C
+• Porsche GT3 (991) and Carrera GT
+Excluded Vehicles:
+• Lotus (all except Elise, Exige, & Esprit)
+• All 2-seat cars not eligible for Street Prepared Category
+• All vehicles not meeting specifications to have been delivered in the US
+Minimum Weight Calculations without driver (lbs.):
+• FWD..............................................................................................1350 + 125 per liter
+• RWD.............................................................................................1600 + 200 per liter
+• AWD.............................................................................................1600 + 300 per liter
+• Supercharged/Turbocharged SSM engines: Add 1.4L to the actual displacement
+• Rear wheel weight greater than 51%............................................+25 per liter
+• Tire width 275 mm or less.................................................................................-200
+STREET MODIFIED CATEGORY
+194 — 2016 SCCA® National Solo® Rules
+Street Modified - Appendix A
+• Regardless of the weight formulas above, no car will be required to
+weigh more than 2900.
+Street Modified class (SM)
+Eligible Vehicles:
+All sedans/coupes (models which were originally equipped with a minimum
+of four seats and four factory seat belts), all FWD (front-wheel-drive)
+cars, and pickup trucks (in compliance with Section 3.1 using SM allowances
+and minimum weight calculation).
+Sample Vehicles:
+• Chrysler: Neon, Stratus/Breeze
+• Ford: Contour, Escort, Probe, Mustang
+• General Motors: Cavalier, Sunfire, Camaro
+• Honda: Civic, Accord, Integra
+• Hyundai: Elantra, Tiburon
+• Mazda: Protege, MX-6, 626
+• Nissan: Altima, Sentra
+• Toyota: Celica, Corolla, Camry
+• Volkswagen: Golf, Jetta
+Excluded Vehicles:
+• Porsche (all)
+• JDM-spec cars
+• Lotus (all)
+• Nissan/Datsun Z-car 2+2 (pre-1990)
+• MGB GT
+• Triumph (all)
+Minimum Weight Calculations without driver (lbs.):
+• FWD..............................................................................................1550 + 125 per liter
+• RWD.............................................................................................1800 + 200 per liter
+• AWD.............................................................................................1800 + 300 per liter
+• Supercharged/Turbocharged SM engines: Add 1.4L to the actual displacement.
+• Rear wheel weight greater than 51%............................................+25 per liter
+• Solid axle RWD.........................................................................................-25 per liter
+• Tire width 275 mm or less.................................................................................-200
+• Regardless of the weight formulas above, no car will be required to
+weigh more than 3100.
+2016 SCCA® National Solo® Rules — 195
+Appendix A - Street Modified
+Street Modified Front-Wheel-Drive class (SMF)
+Eligible Vehicles:
+• All FWD vehicles.
+Minimum Weight Calculations without driver (lbs.):
+• All..................................................................................................1750 + 125 per liter
+• Supercharged/Turbocharged SMF engines: Add 1.0L to the actual displacement.
+• Regardless of the weight formulas above, no car will be required to
+weigh more than 3100 lbs.
+• Cars running in SMF using tires with a nominal width of 275 mm or less
+will NOT receive the weight adjustment as stated in the SM class.
+2016 SCCA® National Solo® Rules — 197
+Appendix A - (XP) Prepared
+XP vehicles must conform to the rules in Section 17 except as noted herein.
+This class is for almost any production car using almost any automobile
+drivetrain. Any vehicle meeting the requirements of Section 17.A.2, listed
+in another Prepared class, specifically listed in CP, DP, EP, or FP that is not
+required to run at Section 17.11.A specified weights or listed at the end, is
+eligible for XP. Section 17.11.A does not apply. “In-excess” cars per Section
+17.11.A are not eligible for XP.
+1. Bodywork and Structure
+a. Chassis components attached by removable fasteners (e.g., bolt-on subframes)
+may be modified or replaced without penalty.
+b. Front hoods, engine covers, trunk lids, hatches, front fenders, rear fenders
+not part of chassis structure (unibody), front & rear fascias, and
+side skirts may be modified or replaced, and may be attached with removable
+fasteners. Associated hardware, including latches and hinges,
+may be modified, removed, or replaced. Fenders may be flared as per
+Section 17.2. Unibody fender may be replaced as described in Section
+17.2.S. Non-metallic fender liners may be modified, replaced, or removed.
+Body panels may be attached with removable fasteners (e.g.,
+Dzus®).
+c. Aerodynamic Aids: Wings may be added, removed, or modified. NonOE
+wings may only be attached to the rear deck/hatch area behind the
+centerline of the rear axle. The total combined surface area of all wings
+shall not exceed 8 sq. ft. (0.7432 m2
+) as calculated per Section 12.9. The
+number of wing elements is limited to 2. Wings designed to be adjustable
+while the car is in motion must be locked in a single position.
+Wings, and any component thereof, may not extend beyond the vehicle
+width as defined by the outermost portion of the vehicle doors, less
+mirrors, door handles, rub strips, and trim. In addition, no portion of
+the wing or its components may be more than 6” (15.24 cm) forward
+of the rear axle, more than 0” (0.0 mm) beyond the rearmost portion
+of the bodywork, or more than 6” (15.24 cm) above the roofline of the
+vehicle, regardless of body style. Reinforcements to the wing mounting
+area may be used, but may serve no other purpose.
+Wing endplate surface area is limited to 200 sq. in. (1290.3 cm2
+) each
+and the number of endplates is limited to a maximum of 2. For convertibles/roadsters
+with no roof and targas with no rear window, no
+portion of the wing may be higher than 12” (30.48 cm) above the wing’s
+point of attachment to the body of the vehicle. In the event that a convertible/roadster
+with no roof or a targa-top with no rear window retains
+the OE windshield frame with a windshield of any material that
+meets Section 17.2.K.1, the top of the windshield frame shall be considered
+the top of the roofline and the car may use the wing mounting
+rules in Appendix A.1.c for a closed car.
+Canards are allowed and may extend a maximum of 6” (15.24 cm) forward
+of front bodywork/fascia as viewed from above. No portion of the
+PREPARED CATEGORY
+X Prepared (XP)
+198 — 2016 SCCA® National Solo® Rules
+Prepared (XP) - Appendix A
+canard may extend past the widest part of the front bodywork/fascia
+as viewed from above. Canard area will be measured in the same manner
+as wings using Section 12.10. Canard area may not exceed 1.2 sq.
+ft. (1114.8 cm²).
+Front splitters are allowed and shall be installed parallel to the ground
+(within ±3° fore and aft) and may extend a maximum of 6” (15.24 cm)
+forward of the frond bodywork/fascia as viewed from above. Splitters
+may not extend rearward past the centerline of the front wheels. No
+portion of the splitter may extend beyond the widest part of the front
+bumper as viewed from above.
+The splitter and canards may have endplates. The endplates may connect
+the splitter and the canard. The splitter and canard endplate total surface
+area is limited to 100 sq. in. (645.2 cm2
+) for each side.
+d. Steering wheel, pedals, and driver’s seat must be completely to the left
+or right of vehicle centerline.
+e. Exhaust may exit through the bodywork. Rocker panels may be modified
+for exhaust routing.
+f. The transmission tunnel/cover may be altered to allow the installation
+of an alternate transmission and/or driveshaft. Cars originally
+equipped with a removable transmission tunnel/cover may substitute
+a tunnel/cover of an alternate material.
+g. The shift lever opening in the body of the car may be altered to allow
+the installation of alternate shift linkage.
+h. Non-OE replacement bodies are allowable for the Factory Five Roadster/Challenge
+Car and Superformance MKIII. Replacement bodies
+must not confuse the identity of the vehicle.
+i. Minimum track width is 55” (139.7 cm).
+2. Wheels
+Any size wheel may be used. Wheel size does not affect minimum weight.
+3. Shock Absorbers and Springs
+a. Section 17.5.B, which restricts the type of shocks authorized by 17.5.C.3,
+does not apply.
+b. Active/reactive suspension systems incur a minimum weight adjustment,
+including standard parts.
+4. Brakes
+Anti-lock braking systems (ABS) may be added, replaced, removed, or
+modified. The use of ABS including original equipment incurs an ABS
+weight adjustment. ABS providing traction and/or stability control in any
+form will also incur a traction/stability control weight adjustment.
+5. Suspension Control
+Any front and rear suspension system type (MacPherson/Chapman strut,
+double A-arm, live axle, etc.) may be used.
+6. Electrical System
+Any ignition system is permitted. The number of spark plugs may be
+2016 SCCA® National Solo® Rules — 199
+Appendix A - (XP) Prepared
+changed.
+7. Engine and Drivetrain
+a. Engines must be derived from production automobiles. Motorcycle,
+snowmobile, marine, or other engines of non-automobile design are
+not permitted.
+b. Drivetrain and related systems (e.g., induction, ignition, fuel, electrical,
+cooling, oiling) and components (e.g., mounts, clutch, flywheel) are unrestricted
+except as noted.
+c. The engine orientation (transverse stays transverse and longitudinal
+stays longitudinal) and the engine bay location must not be changed
+(front-engine stays front-engine, mid-engine stays mid-engine, and
+rear-engine stays rear-engine).
+d. Any traction or stability control systems are permitted, but incur a minimum
+weight adjustment, including standard parts.
+e. Air may be ducted to the induction system. Openings in the bodywork
+to allow air to be ducted are allowed provided they serve no other purpose.
+8. Other
+Vehicles exceeding these rules and prepared to the Club Racing General
+Competition Rules (GCR) are not eligible for this class.
+9. Minimum Weights
+a. Engine Classifications
+1. 4-stroke cycle and 2-stroke cycle, naturally aspirated, internal combustion
+engines will be classified on the basis of actual piston displacement.
+2. Turbocharged or supercharged versions of all engines will be classified
+on a basis of 1.4 times the actual displacement.
+3. Rotary Engines (Wankel): These units will be classified on the basis
+of a piston displacement equivalent to twice the volume determined
+by the difference between the maximum and minimum capacity of
+the working chamber, times the number of rotors.
+b. Minimum Weight Calculations
+All listed weights are without driver. All weights are calculated based
+on displacement as listed above. Example: Weight for a RWD car w/
+1796 cc Turbo engine behind the driver is 1200 + [(1.796 x 1.4) x (200
++ 20)] = 1753 lbs.
+Engine displacement less than 4.0L (lbs.)
+FWD........................................................................................1200 + 150 per liter
+RWD .......................................................................................1200 + 200 per liter
+AWD .......................................................................................1200 + 250 per liter
+Engine displacement of 4.0L or greater (lbs.)
+FWD........................................................................................1200 + 130 per liter
+RWD .......................................................................................1200 + 180 per liter
+AWD .......................................................................................1200 + 250 per liter
+200 — 2016 SCCA® National Solo® Rules
+Prepared (XP) - Appendix A
+Regardless of the weight formulas above, no car shall be required
+to weigh more than 2300 lbs. before applicable weight adjustments.
+Weight Adjustments (lbs.)
+ABS (anti-lock braking system)............................................................. add 50
+TSC (traction/stability control)............................................................ add 50
+Active/reactive suspension...................................................................add 100
+Engine behind driver ............................................................... add 20 per liter
+c. Regardless of the Minimum Weight Calculations above (b), no car with a
+supercharged or turbocharged engine shall weigh less than the following
+minimum weights (lbs.):
+FWD.......................................................................................................................1575
+RWD ......................................................................................................................1700
+AWD ......................................................................................................................1825
+Factory Five
+Roadster & Challenge Car
+Type 65 Coupe
+All with a minimum engine size of 4.5L normally aspirated or the equivalent
+forced induction engine size and weight.
+Mosler
+MT900S
+MT900R XP
+All with a minimum engine size of 6.0L normally aspirated or the equivalent
+forced induction engine size and weight.
+Noble
+M12
+M12GTO
+M400
+All with minimum engine size 2.9L with forced induction or 4.1L normally
+aspirated.
+Rossion
+Q1
+All with minimum engine size 2.9L with forced induction or 4.1L normally
+aspirated.
+Shelby
+Cobra (1963-67)
+Superformance
+MKIII
+GT40 MKII
+Shelby Cobra Daytona Coupe
+All with a minimum engine size of 4.5 L normally aspirated or the equivalent
+forced induction engine size and weight.
+TVR
+Griffith Series 200 & Series 400
+2016 SCCA® National Solo® Rules — 201
+Appendix A - (CP) Prepared
+Unless otherwise listed, the minimum weights will be determined from the
+following tables according to engine type and displacement.
+Minimum weight is based on actual engine displacement. The block may be
+bored and/or sleeved to achieve allowed displacement.
+Engine Coolant flow direction is unrestricted.
+US-produced 4-cyl, 6-cyl, and 8-cyl engines are allowed alternate-stroke
+crankshafts; crank angles must remain standard.
+Naturally aspirated cars using US-market 6-cyl and 8-cyl engines manufactured
+by a particular corporation may use any naturally aspirated 6-cyl or
+8-cyl engine offered in a US-market vehicle by that corporation’s brands as
+listed below:
+• Ford: Ford, Mercury, and Lincoln
+• General Motors: Chevrolet, Pontiac, Oldsmobile, GMC, and Buick
+• Chrysler: Chrylser, Dodge, and Plymouth
+Alternate engines for a particular model must locate the bell housing to the
+block mounting surface in the same plane as the standard part. Vertical position
+of the longitudinal axis of the crankshaft shall remain the same as the
+original engine. Tolerance for both measurements is ±½” (±12.7 mm). Alternate
+material (e.g., aluminum) engine blocks may be used on US-produced
+8-cyl engines. Any altenate engine block shall meet all other requirements of
+Section 17.
+Forced induction cars may not substitute the engine for any other nor may
+forced induction engines be swapped into cars that the combination was not
+offered.
+Engine displacement changes are allowed.
+Alternate iron or aluminum cylinder heads may be used on US-produced
+4-cyl, 6-cyl, and 8-cyl engines. Any alternate cylinder head(s) shall be of of
+the same configuration (number of valves per cylinder and valve actuation
+method - e.g., OHV or OHC) as the original and shall be direct replacement
+type.
+The floor in the driver/passenger compartment may be replaced but must
+maintain the basic shape and position of the original floor (i.e., flat and horizontal,
+relative to the car and rocker panels). It may not be curved, angled,
+recessed, or channeled between the rockers and may be made of steel and/
+or aluminum only. Replacement floors may be modified per Section 17.2.E.
+The firewall between the engine compartment and driver/passenger compartment
+may be replaced but must be in approximately the same location as
+the original and must create a sealed bulkhead between engine and driver/
+passenger. Replacement firewalls may be made of steel and/or aluminum
+only and may be modified per Section 17.2.F.
+An alternate hood is allowed which has a bulge no more than 4” (10.16 cm),
+measured off of the original base model hood, for induction clearance. The
+bulge may open to the front, to the rear, or to either or both sides. If the original
+base model hood has a 2” (50.8 mm) bulge, then an addition of 2” (50.8
+C Prepared (CP)
+202 — 2016 SCCA® National Solo® Rules
+Prepared (CP) - Appendix A
+mm) is allowed, if the base model has a 3” (76.2 mm) bulge, then 1” (25.4
+mm) is allowed, etc.
+Traction control/stability control may not be added to a car which was not
+equipped with an OE traction/stability control system. OE systems may be
+retained, but may not be replaced or modified in any way other than removal.
+The following weights apply unless a specific weight is indicated with the
+model listing.
+Minimum weight (lbs.):
+V8 engines greater than 5100 cc ...................................................................3000
+V8 engines equal to or less than 5100 cc ...................................................2700
+6-cyl engines, maximum 4500 cc ..................................................................2450
+Turbocharged 6-cyl engines, maximum 4500 cc ....................................2550
+Turbocharged 4-cyl engines ............................................................................2450
+Maximum weight on the rear of the car shall be 51% of the total weight
+of the car. Exceptions: Corvair, Yenko Stinger.
+Wheels may be replaced with a wheel having any diameter and any width without
+weight adjustments.
+AMC
+AMX (1968-70)
+Gremlin (8-cyl) (1970-78)
+Javelin (1968-74)
+Spirit (8-cyl) (1979-83)
+Chevrolet
+Camaro (1967-69)
+Camaro (1970-81)
+Camaro (1982-92)
+Camaro (1993-02)
+Corvair & Corvair Turbo (1960-64)...................................... weight (lbs.): 1850
+Corvair & Corvair Turbo (1965-69)...................................... weight (lbs.): 1850
+Monza (1975-80)
+Chrysler, Dodge & Plymouth
+300 (all) (2006-14)
+A-body – Valiant, Dart, Duster, Demon, etc., (1963-67), & Barracuda (1965-
+69)
+Dakota 2WD (1987-96)
+Dakota 2WD (1997-2004)
+Challenger (2008-14)
+Charger (2006-14)
+E-body – Barracuda & Challenger (1970-74)
+Ford & Mercury
+Maverick & Comet (6-cyl & 8cyl) (1970-77)
+Mustang (6-cyl & 8-cyl) (1964-69)
+Mustang (6-cyl & 8-cyl) (1969-73)
+Mustang II (6-cyl & 8-cyl) (1974-78)
+Mustang (6-cyl & 8-cyl) (1979-93)
+Mustang Turbo & SVO (4-cyl) (1979-93)
+2016 SCCA® National Solo® Rules — 203
+Appendix A - (CP) Prepared
+Mustang (w/o IRS) (1994-04)
+Air may be ducted to the intake airbox through an opening in the back
+of the hood, rectangular in shape, maximum width of 20”, maximum
+length 3.5”. Opening may extend 1” into the windshield.
+Mustang (S197 chassis, non-supercharged) (2005-14)
+Thunderbird (V6 & TurboCoupe) (1983-88)
+Thunderbird (V6 & SuperCoupe) (1989-97)
+General Motors
+Chevelle, El Camino, Tempest, etc. (A-body) (1964-67)
+Chevelle, Cutlass, El Camino, GTO, etc. (A-body) (1968-72)
+LeMans, Cutlass, Chevelle, El Camino, etc. (A-Body) (1973-77)
+Malibu, Cutlass, El Camino, etc. (A-body) (1978-81)
+Monte Carlo, Grand Prix, Regal, El Camino, etc. (A-body)(1982-88)
+S10, S15, & Sonoma (6-cyl) (1982-93)
+S10 & Sonoma (6-cyl) (1994-04)
+Mercury
+Capri (6-cyl & 8-cyl) (1979-93)
+Capri Turbo (4-cyl) (1979-93)
+Comet (6-cyl & 8-cyl) (1971-77)
+Merkur
+XR4Ti (1985-88)
+Pontiac
+Firebird & TransAm (1967-69)
+Firebird & TransAm (1970-81)
+Firebird & TransAm (1982-92)
+Firebird & TransAm (1993-2002)
+Trans-Am Turbo (1989)
+GTO (2004-06)
+Saleen
+Mustang (w/o IRS or forced induction) (1979-93)
+Shelby
+GT350 & GT500 (1965-70)
+Yenko
+Stinger (1965-69); weight (lbs.): ....................................................................... 1850
+“Catch-all”:
+US Sedan (6-cyl or 8-cyl, NOC)
+204 — 2016 SCCA® National Solo® Rules
+Prepared (DP) - Appendix A
+Weights are determined by the following formulas. Wheel sizes, valve sizes,
+and track dimensions are as per Section 17.
+Minimum weights are determined by engine displacement. Increases in engine
+displacement resulting from legal overbore are not considered in these
+calculations.
+Wheels up to 10” wide are allowed with no weight increase; a maximum of 12”
+is permitted.
+Weight formulas (lbs):
+Engines with 3 or 4 valves per cylinder and displacement less than or
+equal to 1667 cc:..............................................................1.06 x displacement (cc)
+Engines with 3 or 4 valves per cylinder and displacement greater than
+1667 cc: ..........................................................0.91 x displacement (cc) + 250 lbs.
+Engines with 2-valves per cylinder:.............. 1.00 x listed displacement (cc)
+Engines with 2-valves per cylinder are permitted a displacement
+change of +10% via bore/stroke changes only and with the weight
+formula accounting for the increased displacement.
+Weight Adjustments (lbs):
+ Solid Axle: ........................................................................................................................-50
+Wheels greater than 10” wide up to 12” wide: ............................................+100
+Alfa Romeo
+1600 GTV (1974)
+Alfetta GT (1976-79)
+Alternate cylinder head: 19510.01053.04.
+Giuletta Sprint & Spider (1570 cc)
+Giulia 1300 & 1300 Ti (1964-71)
+GT 1300 Jr & GTA Jr (1966-77)
+GTA (bore & stroke: 78 mm x 67.5 mm)
+GTV 1750, 2000 (1967-77)
+Alternate cylinder head: 19510.01053.04 (twin plug): +100 lbs.
+Junior Z
+Spider Duetto 1750 Spider Veloce (1779 cc) (1969-70)
+Alternate body part: Niki Lauda Edition Spoiler
+Spider 2000 & Spider 2000 Veloce (1962 cc) (1971-76)
+Alternate body part: Niki Lauda Edition spoiler
+Sport Sedan
+Alternate cylinder head: 19510.01053.04 (twin plug): +100 lbs.
+Sedan or sports car (RWD, NOC)
+Alpine
+A108
+A110 1100
+Austin-Healey & MG
+100-4 (2660 cc)
+Alternate part: louvered hood
+MGA Twin Cam
+Replace wood floorboards with metal
+D Prepared (DP)
+2016 SCCA® National Solo® Rules — 205
+Appendix A - (DP) Prepared
+MGA
+Replace wood floorboards with metal
+MGB & MGB-GT
+Sprite/Midget
+BMW
+1600 (1966-77)
+2002, 2002ti, & 2002tii (1968-76)
+2000ti (1966-72)
+320i
+3 Series E21 (4-cyl) (1975-83)
+3 Series E30 (4-cyl) (1984-93)
+3 Series & M3 (8v & 16v, E30 chassis)
+530i (1975-78)
+Z3 (4-cyl)
+Sedan (RWD, NOC)
+Chevrolet
+Vega & Cosworth Vega (1971-77)
+Datsun
+1500 (SPL 310), 1600 (SPL 311/311U), & 2000 (SRL 311) Roadster
+Dodge & Plymouth
+Colt & Champ (1971-78)
+Elva
+Courier (1600, 1800)
+ATB 7224 MGA axle housing assembly
+Fiat & Bertone
+124 Spider (1600, 2000) & 124 Spider Abarth (1995 cc)
+124 Coupe & Sedan (1966-74)
+124 Sport Coupe (1592 & 1608 cc)
+131 & Brava (1974-84)
+850 (all, including Abarth)
+X1/9
+Ford & Mercury
+Anglia Super (1962-67)
+Capri (non-US) (1969-77)
+Alternate 2.3L cylinder head: SVO M-6049-A230
+Cortina (1964-68)
+Escort Mexico
+Escort Super & 1300 GT
+Mustang II (2.3L) (1974-78)
+Alternate 2.3L cylinder head: SVO M-6049-A230
+Mustang & Capri (4-cyl non-turbo) (1979-93)
+Alternate 2.3L cylinder head: SVO M-6049-A230
+Pinto (1971-80)
+Alternate 2.3L cylinder head: SVO M-6049-A230
+Alternate body parts: spoiler D9FZ6440555-A; end piece D9FZ6428010-
+A or D9FZ6428011-A
+206 — 2016 SCCA® National Solo® Rules
+Prepared (DP) - Appendix A
+Isuzu
+I-Mark (1981-84)
+Impulse (non-turbo) (1983-89)
+Jensen
+Jensen-Healey (1973 cc)
+Alternate Parts: cast iron sleeves
+Lancia
+Scorpion (1756 cc) (1976)
+Fabric roof panel may be replaced with alternate materials.
+Lotus
+7 & 7A (948, 997, & 1098 cc)
+Elan
+Alternate cylinder head: 26RD0703
+Super 7 (1340 cc & 1498 cc)
+Europa (Renault 1470 cc/1565 cc & Lotus-Ford Twin Cam 1558 cc)
+Alternate cylinder head (Renault): casting R-16 Renault
+Alternate cylinder head (Twin cam): 26RD0703
+Mazda
+626 (RWD)
+Cosmo (1976-78)
+Alternate cylinder head: #E515-10-100B
+GLC (RWD) (1977-83)
+Alternate cylinder head: E515-10-100B
+MX-5 Miata (1.6L & 1.8L, non-turbo) (1990-2005)
+MX-5 (2006-10)
+Mercedes
+190E (1983-93)
+Morgan
+4/4 MkIV (2138 cc)
+Replace wood floorboards with metal
+4/4 MkV (2138 cc)
+Replace wood floorboards with metal
+Nissan & Datsun
+200SX (S10 chassis) (1977-79)
+Alternate cylinder head: 11041-22010, 11041-U0600-A, 11041-U0602-
+SV, 11041-21901, or 11041-N7120
+200SX (S110 chassis) (1980-83)
+Alternate cylinder head: 11041-22010, 11041-U0600-A, 11041-U0602-
+SV, 1041-21901, or 11041-N7120
+Alternate engine: L20B or NAPS-Z
+200SX (S12 chassis) (1984-88)
+Alternate cylinder head: 11041-N7120.
+Engine: L20B or NAPS-Z
+210 (1397 & 1488 cc) (1979-82)
+210 (B310 chassis; 1.4 L) (1978-82)
+Alternate cylinder head: 11041-H2303 or 11041-H5704
+240SX (1989-98)
+Alternate engine: L20B with cylinder head 11041-N7120/22010 or
+2016 SCCA® National Solo® Rules — 207
+Appendix A - (DP) Prepared
+11041-V9182/U0600A
+Hood may be modified for engine clearance.
+510 (PL510) (1595 cc)
+510 (PL510 chassis; 1.6 L, 1.8 L, & 2.0 L) (1968-73)
+Alternate cylinder head: 11041-22010, 11041-U0600-A, 11041-U0602-
+SV, 11041-21901, or 11041-N7120
+510 (A10 chassis) (1979-81)
+Alternate cylinder head: 11041-22010, 11041-U0600-A, 11041-U0602-
+SV, 11041-21901, or 11041-N7120
+610 (1973-76)
+Alternate cylinder head: 11041-22010, 11041-U0600-A, 11041-U0602-
+SV, 11041-21901, or 11041-N7120
+710 (1974-77)
+Alternate cylinder head: 11041-22010, 11041-U0600-A, 11041-U0602-
+SV, 11041-21901, or 11041-N7120
+720 (2WD) (1980-86)
+810 (1976-80)
+810 Maxima (1981-83)
+B110 (1171, 1237, 1288, 1397, & 1488 cc) (1970-73)
+B210 (1171, 1237, 1288, 1397, & 1488 cc) (1974-78)
+Alternate cylinder head: 11041-H2300, 11041-25720, 11041-H1001,
+11041-18001, 11041-H2303, 11041-H5704, or 11041-H9204
+Opel
+Ascona & Ascona SportWagon (1900 cc) (1971-75)
+GT 1900
+GT 1100
+Kadett (1100 & 1900 cc) (1964-72)
+Manta Sport Coupe & Manta Rallye (1900 cc) (1971-75)
+Pontiac
+Fiero (2.5L, 4-cyl)
+Alternate suspension: rear double A-arm
+Air cleaner may protrude through engine hatch
+Solstice (non-turbo)
+Porsche
+356, except Carrera and 1500, 1600
+1300
+912 & 912E (1600 & 1971 cc)
+914 (4-cyl)
+Cylinder barrels of alternate material allowed
+924 (1984 cc, non-turbo)
+Alternate cylinder: 933.104.302.50
+Saturn
+Sky (non-turbo)
+Sunbeam
+Alpine
+Toyota
+Celica (non-turbo) (1970-77)
+Celica (non-turbo) (1978-81)
+208 — 2016 SCCA® National Solo® Rules
+Prepared (DP) - Appendix A
+Celica (non-turbo) (1982-85)
+Corolla (non-turbo) (1968-70)
+Corolla (1588 cc) (1971-74)
+Corolla (non-turbo) (1971-74)
+Corolla (non-turbo) (1975-79)
+Corolla (non-turbo) (1980-83)
+Corolla (non-turbo, RWD) (1984-87)
+MR2 (1587 cc, non-supercharged) (1985-89)
+MR2 (2164 cc, non-turbo) (1991-95)
+MR2 Spyder (1794 cc) (2000-05)
+Starlet (non-turbo, 2WD) (1981-84)
+Alternate engine: 4A-G 1.6L w/ cylinder head 11101-16010 or 11101-
+16030
+Triumph
+GT6 (1998 cc)
+Spitfire 1147
+Spitfire 1296 MkIII
+Spitfire 1296 MkIV
+Spitfire 1493
+TR-2 & TR-3
+TR-4 & TR-4A (beam axle)
+TR-4A (IRS)
+TR-7 (1998 cc)
+Alternate rear spoiler: V-775
+Turner
+950S
+1500
+Alternate crankshaft: 125 E
+TVR
+1800
+Volkswagen
+Beetle (1300) (1965-66)
+Beetle (1300, 1500, & 1600) (1967-69)
+Beetle (1600) (1970-77)
+Volvo
+122S (1956-70)
+Alternate part: front axle cross member
+Alternate engine kit: 2127 cc
+142S & 142E (1967-74)
+Alternate part: front axle cross member
+Alternate engine kit: 2174 cc
+P-1800 (1780 cc)
+P-1800 (1982 cc)
+Sedans (RWD, NOC)
+“Catch-all”: Other (4-cyl N/A, RWD, NOC)
+2016 SCCA® National Solo® Rules — 209
+Appendix A - (EP) Prepared
+Wheel size allowances are as per Section 17.4.
+Minimum weights are determined by engine displacement. Increases in engine
+displacement resulting from legal overbore are not considered in these
+calculations.
+Wheels up to 10” wide are allowed with no weight increase; a maximum width
+of 12” is permitted.
+Weight Formulas (lbs.):
+Piston Engines: 1.00 x displacement (cc)
+Engines with 3 or 4 valves per cylinder and displacement less than or
+equal to 1667cc: .........................................................1.06 x displacement (cc)
+Engines with 3 or 4 valves per cylinder and displacement greater than
+1667cc: .....................................................0.91 x displacement (cc) + 250 lbs.
+Engines with 2-valves per cylinder: .....................1.00 x displacement (cc)
+Level 2 (Limited Prep) vehicles: ............................1.00 x displacement (cc)
+Weight Adjustments (lbs):
+Wheels greater than 10” wide up to 12” wide: .................................................+100
+Regardless of the weight formulas above no car may weigh less than 1350
+lbs. or be required to weigh more than 2200 lbs. prior to addition of
+weight adjustments defined herein and in Section 17.
+Acura
+Integra (1986-89)
+Integra (1990-93)
+Alt engine: 1590 cc
+Integra (1994-2001)
+RSX (2002-06)
+Sedans (N/A, FWD, NOC)
+Audi
+4000S (non-turbo, FWD) (1980-87)
+Sedans (N/A, FWD, NOC)
+Austin & Morris
+America (1968-71)
+Mini Cooper S (1275)
+Alternate engine: 850, 970, 997, 998, 1071, or 1098 cc
+Firewall modification for adjustable front track rod, front lower suspension
+arm.
+Chevrolet, Pontiac, Buick, Oldsmobile, & Cadillac Equivalents
+Beretta (4-cyl & V6) (1987-96)
+Chevette (1976-87)
+Citation (1980-85)
+Nova (FWD)
+Sonic (non-turbo) (2012-13)
+Spectrum (1985-88)
+Sprint (non-turbo) (1985-91)
+Chrysler, Plymouth, Dodge, Eagle, & Mitsubishi
+Colt & Champ (non-turbo) (1979-83)
+E Prepared (EP)
+210 — 2016 SCCA® National Solo® Rules
+Prepared (EP) - Appendix A
+Colt & Mirage (non-turbo) (1984-88)
+Colt, Mirage, & Summit (non-turbo) (1989-92)
+Colt & Mirage (non-turbo) (1993-96)
+Daytona & Laser (2.2 L non-turbo) (1984-90)
+Eclipse, Laser, & Talon (16v & 8v non-turbo, FWD) (1982-90)
+Neon
+Neon (non-turbo) (1995-2005)
+Omni, Horizon, 024, & TC3 (1978-90)
+Shadow & Sundance (2.2 L) (1986-94)
+Shelby Charger (pre-1979)
+Shelby Charger (1983-87)
+Spirit & Acclaim (4-cyl) (1989-95)
+Sedans (N/A, FWD, NOC)
+Fiat
+128 Coupe SL & 3P (1290 cc) (1969-79)
+500 (2011-15)
+Ford & Mercury
+Escort (1997-2002)
+Escort, EXP, Lynx, & LN7 (1982-88)
+Escort & Lynx (1968-81)
+Escort GT & ZX-2 (1991-96)
+Escort GT (1981-90)
+Festiva (1984-97)
+Fiesta (1976-83)
+Focus (1998-2010)
+Probe (non-turbo) (1989-92)
+Probe (non-turbo) (1993-97)
+Honda
+Accord (4-cyl)
+Alternate cylinder head: 12100-P05-010 or 12100-P05-020
+Civic (1170 cc)
+Civic (1237 cc)
+Civic (1488 cc) (1980-83)
+Alternate cylinder head: 12100-664-010 (2v per cyl)
+Civic (1984-87)
+Alternate cylinder head: 1342 cc - 12100-PE2-000, 121000-PE7-000,
+or 12100-PE3-000; 1488 cc - 12100-PE3-010 or 121-XA1-0084
+Civic (1988-91)
+Civic (1992-95)
+Civic (non-Si) (1996-2000)
+Civic Si (1.6L DOHC VTEC) (1999-2000)
+Civic (2001-05)
+Civic (2006-10)
+CRX (1984-87)
+Alternate cylinder head: 1342 cc - 12100-PE2-000, 121000-PE7-000,
+or 12100-PE3-000; 1488 cc - 12100-PE3-010 or 12100-XA1-0084
+Alternate body parts: Mugen front bumper/spoiler, front fender, rear
+fender, & rear bumper
+2016 SCCA® National Solo® Rules — 211
+Appendix A - (EP) Prepared
+CRX (1988-91)
+DelSol (1993-96)
+Fit (2009-15)
+Prelude (1978-2001)
+Alternate cylinder head: 12100-PC7-000, 12100-PC7-010, or 12100-
+PC7-020
+Hyundai
+Sonata (1989-2005)
+Infiniti
+I30 (1996-2001)
+I35 (2002-04)
+Isuzu
+I-Mark (1985-89)
+Impulse (non-turbo) (1990-92)
+Stylus (1991-93)
+Sport Coupe
+Lancia
+Beta
+Zagato
+Mazda
+323 & GLC (non-turbo, FWD) (1980-95)
+626 (non-turbo, 2WD) (1982-2002)
+Mazda2 (2011-15)
+MX-6 (non-turbo, 2WD) (1988-97)
+Sedan (N/A, FWD, NOC)
+MINI
+Cooper (non-S) (2002-10)
+Mitsubishi
+Cordia (non-turbo, FWD) (1982-90)
+Alternate Specification: No split shift
+Eclipse – see Chrysler
+Mirage – see Chrysler
+Nissan/Datsun
+NX (B13 chassis) (1991-93)
+Pulsar (N12 chassis) (1983-86)
+Alternate cylinder head: 11041-15M00
+Pulsar (N13 chassis; 16v) (1987-90)
+Alternate cylinder head: 11041-15M00
+Alternate engine: A14
+Sentra (B11 chassis) (1983-86)
+Alternate cylinder head: 11041-15M00
+Sentra (B12 chassis; 1.6 L) (1987-90)
+Alternate cylinder head: 11041-15M00
+Alternate engine: L16
+Sentra (B13 chassis; 2.0 L) (1991-94)
+Alternate cylinder head: 11041-H5704
+Sentra & 200SX (B14 chassis) (1995-99)
+212 — 2016 SCCA® National Solo® Rules
+Prepared (EP) - Appendix A
+Versa (2010-15)
+Sedan (N/A, FWD, NOC)
+Peugeot
+405 (non-turbo) (1987-91)
+Renault
+Alliance, Encore, R-9, & R-11 (1982-89)
+Alternate cylinder head: 77005972627
+LeCar & R-5 (non-turbo, FWD) (1978-96)
+Alternate cylinder head: 7700597627
+Firewall/bulkhead modifications when using alternate head
+R17 Gordini (1971-77)
+Sedan (FWD, NOC)
+Saab
+93 & 96 Sedan (843 cc, 2-stroke)
+96 (non-turbo, FWD) (1960-80)
+99 (non-turbo, FWD) (1969-84)
+900 (non-turbo, FWD) (1979-94)
+Sonett (1498 & 1699 cc)
+Sedan (non-turbo, FWD, NOC)
+Saturn
+S & L series (1991-2005)
+ION (non-supercharged) (2003-07)
+Subaru
+GL Coupe (non-turbo, FWD)
+Sedan (non-turbo, FWD, NOC)
+Suzuki
+Swift GA, GL, GTi, & GT (1985-2001)
+Toyota
+Celica (non-turbo, FWD) (1986-89)
+Celica (non-turbo, FWD) (1990-93)
+Celica (non-turbo, FWD) (1994-99)
+Celica (non-turbo) (2000-05)
+Corolla (non-turbo, FWD) (1984-87)
+Corolla (non-turbo, FWD) (1988-92)
+Alternate engine: 4A-C
+Corolla (non-turbo) (1993-97)
+Corolla (non-turbo) (1998-2002)
+Corolla (non-turbo) (2003-08)
+Paseo (non-turbo) (1991-97)
+Tercel (non-turbo) (1980-82)
+Tercel (non-turbo, FWD) (1983-86)
+Tercel (non-turbo) (1987-90)
+Tercel (non-turbo) (1991-94)
+Tercel (non-turbo) (1995-99)
+Yaris
+Sedans (non-turbo, FWD, NOC)
+2016 SCCA® National Solo® Rules — 213
+Appendix A - (EP) Prepared
+Volkswagen
+Corrado (16v, non-supercharged) (1988-95)
+Corrado VR6 (1992-95)
+Rabbit, Jetta, Scirocco, Cabriolet, & Pickup (A1 chassis, 8v) (1975-92)
+Golf & Jetta (A2 chassis) (1985-93)
+Golf, GTI, & Jetta (A3 chassis; 1.8 L & 2.0 L non-turbo) (1993-98)
+Golf, GTI, & Jetta (A4 chassis; 2.0 L non-turbo) (1999-2005)
+Golf, GTI, & Jetta (A5 chassis; 2.5 L 5-cyl) (2006-09)
+New Beetle (2.0 L non-turbo & 2.5 L 5-cyl) (1998-2010)
+Sedan (N/A, FWD, NOC)
+Yugo (1986-92)
+“Catch-all”: Other (4-cyl N/A, FWD, NOC)
+Level 2 (Limited Preparation) Vehicles
+This list of vehicles and the allowances below was developed from Level
+2 (Limited Prep) vehicles listed in the Club Racing GCR under Production
+Category. The goal is for these cars to be less expensive and easier to prepare
+but allow them to be fully competitive with the cars currently in Prepared
+class E (EP).
+The following vehicles are classed in EP with the Level 2 (Limited Prep) allowances
+per Section 17, Prepared Category, and the specifications listed
+below.
+Permitted optional carburetors, for single carburetor cars, are:
+A. Weber 32DGV, 32DGAV, or 32DGEV
+B. Weber 32/36DGV, 32/36DGAV, or 32/36DGEV
+C. Weber 32/36DFV, 32/36DFAV, or 32/36DFEV
+D. Weber 34DAT, 34DATR, 34DATRA, or 34DMTR
+E. Holley-Weber 5200
+Make
+• Model Valve Size In./Ex. (max in.)
+Engine displacement
+Induction
+Additional specifications
+Ford
+• Fiesta (1978-80) 1.41/1.24
+1598 cc
+(1) 40DCN, 40DCNF, or 40IDF carburetor
+Compression ratio to 11.0:1, valve lift to 0.450”
+• Festiva (1988-93) 1.26/1.10
+1324 cc
+Fuel Injection or Carburetor
+Compression ratio to 10.5:1, valve lift to 0.450”
+214 — 2016 SCCA® National Solo® Rules
+Prepared (EP) - Appendix A
+Geo
+• Metro 13BA (1989-94) 1.42/1.18
+1298 cc
+Fuel Injection
+Compression ratio limited to 11.0:1, valve lift to 0.450”
+Honda
+• Civic, Civic Si, CRX, & CRX Si (1984-87)
+1488 cc 1.07/1.30
+Fuel Injection or Carburetor
+Compression ratio to 11.0:1, valve lift to 0.390”
+• Civic, (all) & CRX (all) (1988-91) 1.14/0.98
+1493cc
+Fuel Injection
+Compression ratio to 11.0:1; valve lift to 0.390”
+1590cc
+Compression ratio to 11.0:1; valve lift to 0.390”
+Renault
+• Alliance/Encore (1984-87) 1.50/1.28
+1721 cc
+Fuel Injection
+Compression ratio to 10.5:1, valve lift to 0.450”
+Suzuki
+• Swift GA (1989-94) 1.42/1.18
+1298 cc
+Fuel Injection
+Compression ratio limited to 11.0:1, valve lift to 0.450”
+Volkswagen
+• Golf (GTI, GT, GL) (non-turbo) 1.57/1.30
+1780 cc
+Fuel Injection
+Compression ratio to 11.5:1, valve lift to 0.420”
+• Jetta (‘85-’91) 1.57/1.30
+1780 cc
+Fuel Injection
+Compression ratio to 11.5:1, valve lift to 0.420”
+• Rabbit (‘81-’84) 1.34/1.22
+1715 cc
+Fuel Injection
+Compression ratio to 11.0:1, valve lift to 0.450”
+• Rabbit GTI (8v) (‘83-’84) 1.57/1.30
+1780 cc
+Fuel Injection
+Compression ratio limited to 12.0:1, valve lift to 0.420”
+2016 SCCA® National Solo® Rules — 215
+Appendix A - (EP) Prepared
+• Rabbit 1.34/1.22
+1588 cc
+(1) 40DCN or 40DCNF w/32mm chokes carburetor or Fuel Injection
+Compression ratio to 11.0:1, valve lift to 0.450”
+• Scirocco (‘81-’84) 1.34/1.22
+1715 cc
+Fuel Injection
+Compression ratio to 11.0:1, valve lift to 0.450”
+• Scirocco (8v) (‘83-’88) 1.57/1.30
+1780 cc
+Fuel Injection
+Compression ratio to 12.0:1, valve lift to 0.420”
+• Scirocco 1.34/1.22
+1457 cc
+1471 cc
+1457: (1) 40DCN, 40DCNF, or 40IDF w/32mm chokes or Fuel Inj.
+1471: (1) 40DCN, 40DCNF, or 40IDF w/32mm chokes
+Compression ratio to 11.0:1, valve lift to 0.450”
+• Scirocco 1.34/1.22
+1588 cc
+(1) 40DCN or 40DCNF w/32mm chokes or Fuel Inj
+Compression ratio to 11.0:1, valve lift to 0.450”
+216 — 2016 SCCA® National Solo® Rules
+Prepared (FP) - Appendix A
+Wheel size allowances are as per Section 17.4.
+Minimum weights are determined by engine displacement. Increases in engine
+displacement resulting from legal overbore are not considered in these
+calculations.
+Wheels up to 10” wide are allowed with no weight increase; a maximum width
+of 12” is permitted.
+Weight formulas (lbs.):
+Piston Engines: 0.75 x displacement (cc)
+Rotary Engines: 0.70 x specified displacement (cc)
+Forced Induction: + 0.450 x displacement (cc)
+Peripheral Port Rotary: + 0.050 x displacement (cc)
+Weight Adjustments (lbs):
+Wheels greater than 10” wide up to 12” wide: .................................................+100
+AWD: + 0.100 x displacement (cc)
+FWD: - 0.100 x displacement (cc)
+Solid Drive Axle: -0.05 x displacement
+Weight Adjustments: Equipment, Weight (lbs.)
+Regardless of the weight formulas above no car may weigh less than
+1900 lbs. or be required to weigh more than 2700 lbs. prior to addition
+of weight adjustments defined herein and in Section 17.
+Weight Calculation Example
+Subaru WRX STI (2.5 L) with 11” wheel width
+Actual displacement (before overbore): 2457 cc
+The formula would be: 0.750 (piston engine) + 0.450 (forced induction)
++ 0.100 (AWD) = 1.3 (total weight factor).
+Calculated weight: 1.3 x 2457 = 3195 lbs. (exceeds maximum limit).
+2700 lbs. (maximum calculated weight) + 100 lbs. (wheel width over
+10” weight adjustment) = 2800 lbs. (total competition weight).
+Acura
+NSX (1990-2005)
+Alfa Romeo
+GTV V6 (1981-86)
+Audi
+4000, 4000 Quattro, Coupe Quattro, Coupe (1981-87)
+90 Coupe, 90 Quattro Coupe & Sedan (1990-91)
+TT
+Austin-Healey
+3000 (1959-67)
+100-6 (1956-59)
+BMW
+1 Series (6-cyl non-turbo, E82/E88 chassis) (2008-10)
+3 Series (6-cyl 12v, E30 chassis) (1984-90)
+F Prepared (FP)
+2016 SCCA® National Solo® Rules — 217
+Appendix A - (FP) Prepared
+3 Series (6-cyl 24v, E36 chassis) (1992-98)
+3 Series (6-cyl all, E46 chassis) (1999-2005)
+3 Series (6-cyl non-turbo, E90/E91/E92/E93 chassis) (2006-10)
+Chevrolet
+Sprint Turbo
+Chrysler, Plymouth, Dodge, Eagle, & Mitsubishi
+Colt Turbo
+Daytona & Laser (Turbo) (1984-89)
+Omni Turbo
+Shadow & Sundance (Turbo) (1987-94)
+SRT-4 (Neon chassis) (2003-05)
+Talon & Laser (Turbo, FWD & AWD) (1989-94)
+Conquest & Starion Turbo
+Ferrari
+Dino 246
+Dino 246 GT
+308 (all)
+Honda
+S2000 (2000-09)
+Isuzu
+I-Mark RS (16V & Turbo, FWD)
+Jaguar
+XKE (1961-74) (6-cyl)
+XKE (1961-74) (V12)
+Lexus
+IS300 (2001-05)
+Lotus
+Elise & Exige (normally-aspirated) (1996-2010)
+Mazda
+MazdaSpeed Protégé (2003)
+MazdaSpeed MX-5 Miata (2004-05)
+MX-6 (12A Rotary, no peripheral port) (1988-97)
+MX6 GT Turbo
+RX-2 (12A) (1971-74)
+Specified Displacement: 2292 cc
+Alternate Specification: No peripheral port
+RX-3 (12A) (1971-78)
+Specified Displacement: 2292 cc
+Alternate Specification: No peripheral port
+RX-4 (12A or 13B) (1974-78)
+Specified Displacement: 12A, 2292 cc; 13B, 2616 cc
+Alternate Specification: No peripheral port
+RX-7 (12A or 13B, bridge or peripheral porting allowed) (1979-85)
+Alternate engine: Renesis
+Specified displacement: 12A, 2292 cc; 13B & Renesis, 2616 cc
+218 — 2016 SCCA® National Solo® Rules
+Prepared (FP) - Appendix A
+RX-7 (13B, bridge or peripheral porting allowed) (1986-91)
+Alternate Engine: Renesis
+Specified displacement: 13B & Renesis, 2616 cc
+RX-8 (bridge or peripheral porting allowed)
+Alternate engine: 12A or 13B
+Specified displacement: 12A, 2292 cc; 13B & Renesis, 2616 cc
+Standard intake manifold may be used
+MINI
+Cooper S (2002-10)
+Mitsubishi
+Eclipse Turbo (FWD & AWD) (1990-98)
+Lancer Evolution (2003-06)
+Morgan
+Plus 8
+Nissan & Datsun
+240Z, 260Z, 280Z (incl. 2+2) (1970-78)
+Alternate part: headlight covers
+280ZX (incl. 2+2) (1979-83)
+Alternate part: headlight covers
+300ZX (Z31 chassis) (1984-89)
+Alternate part: headlight covers
+300ZX (non-turbo, Z32 chassis) (1990-96)
+Alternate part: rear facing hood scoop (3.5” max height)
+350Z
+370Z (2009-14)
+Pontiac
+Fiero (V-6 2.8L)
+Alternate suspension: rear double A-arm
+Air cleaner may protrude through engine hatch
+Solstice GXP
+Porsche
+911 (3.6L & under, non-turbo)
+Alt cyl heads: twin plug
+914-6 (2.0L, 2.5L, 2.7L, & 2.8L 6-cyl air-cooled)
+Alt cyl heads: twin plug
+924S (1986-88)
+Alternate cylinder head: P/N 933.104.302.50 w/ 36 mm ex. valves
+924 Turbo
+944 (non-turbo, all) (1982-91)
+944 Turbo (1985-91)
+968 (1992-95)
+Boxster & Cayman
+Saab
+99 (1968-84)
+900 Turbo & 900 SPG Turbo 16v (1979-88)
+Saturn
+Sky Red Line
+2016 SCCA® National Solo® Rules — 219
+Appendix A - (FP) Prepared
+Subaru
+Impreza (AWD) & WRX (all)
+SVX (1992-97)
+Sedans/Coupes (Turbo, NOC)
+Suzuki
+Swift Turbo
+Toyota
+Celica All-Trac (1988-89)
+Celica All-Trac (1990-93)
+Celica All-Trac (1994-99)
+Celica Supra (1979-81)
+Celica Supra (1982-86)
+Supra (non-turbo) (1986½-92)
+Supra (non-turbo) (1993-98)
+MR2 Supercharged (Mk1 chassis) (1988-89)
+Alternate parts: 1985-89 chassis
+MR2 Turbo (1991-95)
+Triumph
+TR6 (1969-76)
+TR8 (215 c.i. or 4L)
+TR250 (1967-68)
+TVR
+6-cyl
+Volkswagen
+Corrado (1.8L Supercharged w/ 54 mm inlet restrictor) (1990-95)
+Golf, GTI, & Jetta (TDI or VR6, A3 chassis) (1993-98)
+Golf, GTI, & Jetta (1.8T, TDI, or VR6, A4 chassis) (1999-2005)
+Golf, GTI, & Jetta (2.0T or TDI, A5 chassis) (2006-10)
+New Beetle (1.8T or TDI) (1998-2010)
+R32 (3.2L V6, AWD) (2004)
+“Catch-all”: Sedan (4-cyl forced induction or 6-cyl, NOC)
+2016 SCCA® National Solo® Rules — 221
+Appendix A - (AM, BM) Modified
+MODIFIED CATEGORY
+All listed weights are with driver except where noted otherwise. Weights not
+listed default to the appropriate SCCA® Club Racing GCR (General Competition
+Rules) reference. “Car” is defined in Section 12. In the Solo® Rules Sections
+where preparation allowances are specified and if there are conflicts
+with the GCR allowances, the Solo® Rules shall take precedence.
+Modified class A (AM)
+Cars with a minimum weight of 900 lbs. with driver and a minimum 72”
+(182.9 cm) wheelbase, plus Formula SAE as specified in Section 18.5. Club
+Racing GCR-compliant Formula S (FS) and A Sports Racer (ASR) vehicles may
+compete in this class.
+Modified class B (BM)
+All Formula Cars or Sports Racers compliant under the current Club Racing
+GCR Sections 9.1.1.A.1 a-h or 9.1.8.D.1 A-H, unless specifically classed elsewhere,
+with the following exceptions:
+A. Spec tires are not required.
+B. Minimum wheelbase of 80” (203.2 cm).
+C. Sports Racers and all Open-Wheel Cars including Formula Atlantics:
+1. Turbocharged and supercharged engines are not permitted.
+2. May use any automobile-based 2v/cyl engine up to 1300 cc, any
+2-stroke motor up to 900 cc, any 4v/cyl or more engine up to 1005 cc.
+• Minimum weight with driver:............................................................1020 lbs.
+3. May use any 2v/cyl automobile-based production engines up to 1615
+cc.
+• Minimum Weight with driver: ...........................................................1110 lbs.
+4. May use any 4v/cyl or more engine up to 1615 cc. May use any 2-stroke
+up to 1300 cc, Mazda 12A rotary with any porting and any carburetion.
+May use fuel injection without weight penalty as required by the GCR.
+• Minimum weight with driver:............................................................1180 lbs.
+5. May use any engine up to 3000 cc.
+• Minimum weight with driver:............................................................1285 lbs.
+6. Minimum rim width:............................................................................................none
+7. Maximum allowed rim width: ........................................................................15 in.
+8. Transmissions: No restriction on mechanical shift sequence/pattern,
+use of transverse types (motorcycle transmission or similar), number of
+gears, or use of CVT in any vehicle.
+9. Minimum width for all cars shall be no less than 57” as measured at the
+narrowest end of the car at the tire outer sidewalls with a minimum 14
+psi of tire pressure.
+10.All prohibited cost control items in P2 per GCR Section 9.1.8.D.A apply to
+222 — 2016 SCCA® National Solo® Rules
+Modified (CM) - Appendix A
+formula cars as well as sports racers with the following Solo® changes to
+the list:
+a. All chassis/tub over 75% composite are allowed and incur no weight
+penalty unless under either 96” wheelbase or 66” rear sidewall-tosidewall
+outside width (measured with tire pressure at least 14 psi), in
+which case minimum weight is increased by 50 lbs.
+b. Direct injection for non-automobile engines incurs a weight penalty of
+25 lbs.
+D. Formula 2000 and Formula Continental per GCR/FCS:
+1. Minimum weight with driver:...................................................................1090 lbs.
+2. Rim width:..................................................................................................unrestricted
+3. Airfoil maximum size per Formula Atlantic rules.
+E. Aerodynamic restrictions for Sports Racers:
+1. The total area when viewed from the top of front and rear wings shall
+not exceed 8 sq. ft. (0.743 m2
+). Area calculation is of the airfoil element
+plan view and does not include side plates. Side plate area and element
+profile are unrestricted.
+2. Cars with underbody features built in excess of P2 aerodynamic allowances
+(2015 GCR Section 9.1.8.D and 9.1.8.E) must meet a weight penalty
+of 50 lbs. and must be constructed within the following limitations:
+a. For the full width of the body the floor pan will be a minimum of 45%
+of the wheelbase; the lower surface (surface licked by the air stream)
+shall not exceed ±1” (2.54 cm) deviation in any longitudinal section
+through the plane forming the bottom of the tub or chassis floor. The
+45% minimum (of the wheelbase) dimension is measured from the
+point that the surface meets the full width of the body (behind the
+front wheel or in front of the rear wheel). (This is not to be interpreted
+as requiring a floor pan beneath the motor, transaxle, transmission, or
+final drive housing.) See Figure 1.
+b. No aerodynamic devices (e.g. “skirts,” body sides, etc.) may extend
+2016 SCCA® National Solo® Rules — 223
+Appendix A - (CM) Modified
+more than 1 cm (0.394”) below this lower surface anywhere on the car
+to the rear of the front axle. Seat bucket or other protrusions shall not
+circumvent this rule.
+3. The current GCR P2 underbody aero specifications shall apply to all
+sports racers and production cars as recognized in DM and EM running
+in BM as sports racers.
+4. Production cars running in BM must have the tires as viewed from
+above at least half covered. Cycle fenders may be used to comply with a
+sports racer classification.
+F. Aerodynamic restrictions for Formula Atlantic (all open-wheel in BM)
+shall follow the current Club Racing GCR Formula Atlantic Preparation
+Rules with the following Solo® allowances:
+1. Wings and all other aerodynamic devices front and rear may match but
+shall not exceed sports racer P2 GCR maximum height (45.25” per P2
+GCR 9.1.8.D.D.2 ).
+2. Front wing width may match but shall not exceed overall front width as
+measured at the tires. Front wing elements may not extend behind the
+front wheel centerline.
+3. Rear wing width shall not exceed the Club Racing FA specs with the
+exception that endplate gurney lips are not included. Endplate Gurney
+lips shall not exceed 7 cm (2.756”) additional width per side and shall
+not deviate more than 10° from vertical. No part of the entire rear wing
+assembly, including wing elements and end plates, shall extend more than
+1 m (39.37”) to the rear of the rear wheel centerline.
+a. Except for cars meeting the dimensions of subsection F.3.b herein, the
+rear wing element assembly maximum plan view fore-aft dimension
+shall not exceed 70 cm (27.56”).
+b. For cars 66” wide or more at the rear tires and which also meet a
+weight of 1180 lbs, the fore-aft dimension of the rear wing element
+assembly plan view shall not exceed 90 cm (35.43”).
+4. Side pod or other parts not considered chassis are not required to attach
+or stay above a line situated 1 cm (0.4”) above the chassis bottom (this
+is an exception to GCR 9.1.1.A.1.g.10).
+5. Flexible ground sealing is permitted on cars 66” wide or more at the
+rear tires and which also meet a weight of 1180 lbs.
+Modified class C (CM)
+A. Modified Class C (CM) allows the Solo® Vee and the following SCCA® Club
+Racing GCR-compliant cars: Spec Racer Ford (SRF), Formula F (FF). Within
+the limitations of the GCR, additional frame bracing, suspension and steering
+changes, relocation of ancillary components (radiators, batteries, etc.),
+and their associated mounting brackets is permitted. Nothing in these
+rules is to be construed as overruling any GCR construction requirements
+or limitations except for those safety items which the Solo® Rules do not
+224 — 2016 SCCA® National Solo® Rules
+Modified (CM) - Appendix A
+require. The purpose of these rules is to maintain the value of these cars
+for Club Racing and therefore their market value, and to prevent special
+Solo®-only Formula F vehicles.
+Exceptions to the Club Racing GCR for all cars in this class:
+1. Spec tire requirements do not apply.
+2. Formula F (FF) weight with driver, minimum:
+Ford Cortina engine (lbs.)......................................................................................1050
+Ford Kent and Honda Fit engines (lbs.)............................................................1100
+3. Only cars produced by the following manufacturers are eligible for
+FF in this class: ADF, Alexis, Anson, Caldwell, Citation, Crossle, Dulon,
+Eagle, Elden, Forsgrini, Gemini, Hawke, Konig-Heath, LeGrand, Lola, Lotus,
+March, Merlyn, Mondiale, Piper, PRS, Reynard, Royale, Stohr, Swift,
+Tiga, Titan, Van Diemen, Winkleman, and Zink. The SEB may add to this
+list at any time, effective upon notification of the membership.
+B. Other Club Racing GCR-compliant Formula Cars
+1. Formula Vee (FV)
+2. Formula First (FST)
+C. Solo® Vee as per the following definition: Solo® Vee is based on Club Racing
+Formula Vee (FV) and all cars shall meet all specifications described in
+the Club Racing GCR Sections 9.1.1.C.1, C.2, C.3, C.4, C.6, C.7, C.8, C.9, C.10,
+C.11 and C.12 except as amended in these rules. No permitted or alternate
+component or modification shall additionally perform a prohibited function.
+1. Engine Choices
+a. Any standard 1600 cc or smaller air-cooled automobile engine manufactured
+by Volkswagen (VW) for sale in VW vehicles available to
+the general public for purchase in the US is allowed.
+1. Solo® Vee engines may increase compression up to and including
+10:1 ratio with OE bore and stroke. Compression ratio may be increased
+by additional machining of any factory machined surface
+on the cylinder heads only. Fuel injection is prohibited. Valve size
+may be increased to a maximum of 40.0 mm intake and 35.5 mm
+exhaust. Port location may not be changed from OE standard. Machining
+of any type in the combustion chamber such as, but not
+limited to, valve unshrouding is prohibited. Valve guide centers
+shall remain OE standard. OE standard heads shall be used; however,
+alternate VW heads with casting numbers 040 101 355 or
+043 101 375 may be substituted. Any single carburetor (regardless
+of the number of venturis) is permitted. Multiple carburetion
+is restricted to a maximum of two 44 mm carburetors with 28
+mm ventures. If a balance tube is used between manifolds runners,
+it shall be restricted to one ½” (0.500”, 50.8 mm) ID pipe.
+Any intake manifold not having a plenum chamber is permitted.
+2016 SCCA® National Solo® Rules — 225
+Appendix A - (CM) Modified
+OR
+2. Increase bore up to and including 94 mm maximum per cylinder,
+total displacement of 1915 cc. Machining to allow the installation
+of the cylinders is permitted. No other combustion chamber machining
+(such as, but not limited to, unshrouding of the valves)
+is permitted. Valve guide centers must remain OE standard. Increased
+displacement engines up to 1915cc are restricted to maximum
+valve sizes 39 mm intake and 32 mm exhaust. Port location
+may not be changed from OE standard. OE standard heads shall
+be used; however, alternate VW heads with casting numbers 040
+101 355 or 043 101 375 may be substituted. A maximum compression
+ratio of 9:1 is permitted. Compression ratio may be increased
+by additional machining of any factory machined surface
+on the cylinder heads only. Any single carburetor may be used.
+Multiple carburetors are prohibited. Any intake manifold not having
+a plenum chamber is permitted.
+b. There shall be no mixing of allowances (e.g., carburetors from 1
+above and displacement from 2 above).
+2. Engine Components
+a. Mixing of parts between different air-cooled engine models is permitted.
+All parts must meet VW specifications for engines delivered
+for use in the US in VW vehicles unless otherwise noted herein.
+b. Balancing of all moving parts is permitted provided balancing does
+not remove more material than necessary to achieve balance.
+c. Parts from alternate manufacturers or remanufactured parts are
+permitted provided said parts are of the same material, are dimensionally
+identical, and meet all original VW specifications for engines
+delivered for use in the US in VW vehicles. This would include VW
+replacement heads as specified without raised ports and aluminum
+engine cases. Aftermarket magnesium engine cases may also be substituted.
+d. The flywheel from either the alternate engine or from the 1200 cc
+engine may be used. Minimum flywheel weight is 12 lbs. Any single
+disk clutch may be used. The transmission housing may be machined
+to provide clearance when using the alternate engine/flywheel assembly.
+e. Any exhaust system which terminates more than 3” (7.62 cm) behind
+the rearmost part of the body may be used.
+f. Counterweighted crankshaft and 8-dowel pinned crankshaft-to-flywheel
+mounting are allowed. All journal dimensions and relationships
+with each other must remain as standard. Crankshaft journals
+may be ground undersize a maximum of 0.030” (0.762 mm) less
+than standard dimensions. Crankshaft pulley is unrestricted.
+226 — 2016 SCCA® National Solo® Rules
+Modified (CM) - Appendix A
+g. Deep sump oil pan up to 2.5 qt. (2.37 L) additional capacity is permitted.
+The installation of baffles housed completely within the oil
+pan and crankcase is permitted. The use of any standard VW oil
+pump is permitted. Dry sump systems are permitted. Replacement
+of oil gallery plugs with threaded plugs is permitted. Oil filters and
+oil coolers are unrestricted provided that they are securely mounted
+completely within the bodywork. A pressure accumulator (e.g., Accusump®)
+may be fitted.
+h. Camshaft and valve train components are unrestricted with the following
+exceptions:
+1. Pushrods shall be made of metal.
+2. Valve lifters (tappets) shall be dimensionally and functionally identical
+to and made of the same material as the standard VW parts.
+3. Roller camshafts are prohibited.
+4. Rocker arms shall be standard ratio VW.
+5. Valve guide material is unrestricted provided that the distance between
+valve centers and the angles of the valves does not change.
+i. Porting, polishing, and machining of the intake and exhaust ports is
+permitted. The addition of material in any form is prohibited. Valve seat
+angles are unrestricted.
+j. Compression ratio may be increased by additional machining of any
+factory machined surface on the cylinder heads only. Installation of a
+spark plug hole repair utilizing standard thread repair methods (e.g.,
+Helicoil®) is permitted providing that the spark plug centerline is not
+changed.
+k. Complete or partial removal of any cooling duct component. Removal of
+the fan and the fan housing is permitted. Any electric fan is permitted
+for cooling the engine or engine oil.
+l. Voltage regulator, generator, and/or generator stand may be removed.
+m.One or more batteries may be used.
+n. Any ignition system that utilizes a distributor for spark timing and distribution
+may be used. Distributor shall require no modification to the
+engine for installation. Internal distributor components and distributor
+cap may be substituted.
+o. Valve covers are unrestricted and may be bolted on.
+p. Electric radiator/engine cooling fan(s) may be installed.
+3. Transaxle
+a. Aftermarket shift forks/shift rod/mounting parts and alterations required
+for their installation is permitted with the intent of facilitating
+reliable H-pattern shifting.
+b. This allowance does not include sequential shifting (push button or
+single axis lever movement) mechanisms or electric/gas assist. Cable/
+2016 SCCA® National Solo® Rules — 227
+Appendix A - (CM) Modified
+hydraulic actuating mechanisms are allowed.
+c. Any primary or final drive gears of any origin may be used. This does
+not allow the use of alternate transaxles. A reverse gear is not required.
+d. A device for locking-out reverse gear may be used.
+e. A limited-slip differential (LSD) is permitted.
+4. Bodywork
+Bodywork to the rear of the main roll hoop may be removed.
+5. Front Suspension
+The front suspension shall be standard VW Type 1 sedan H-beam front
+suspension (i.e., link pin or ball joint) or an exact replica of one of them
+and dimensionally identical. Aluminum H beams are prohibited. The following
+modifications are permitted:
+a. Lugs welded, brackets attached by welding or otherwise, and holes
+drilled in the H-beam to permit attachment of the beam to the chassis,
+and components wholly or partially to the beam. Brackets may be welded
+to the torsion arms for the sole purpose of actuating the shock(s)
+and/or external mounted anti-roll bar and shall perform no other functions.
+b. Open springs. Torsion bars may be used in conjunction with coils or
+may be removed entirely. “Coil-overs” are permitted.
+c. Removal of the shock towers above the upper H-beam tube centerline.
+d. Relocation of the shock dampers. Shock dampers and their actuation
+are free.
+e. The use of any anti-roll bar or bars, internal or external, mounting
+hardware, and trailing arm locating spacers. The anti-roll bar fitted as
+part of the standard suspension may be removed. Anti-roll bars may
+not be cockpit adjustable.
+f. Replacement of torsion bar rubbers with spacers of another material.
+g. Installation of any ride height adjuster(s).
+h. Removal of the drum brake backing plates.
+i. In the link pin suspension, non-standard offset link pin bushings in order
+to obtain desired negative camber. Clearancing of carrier or trailing
+arm to prevent binding is permitted. The rubber portion of the bump
+stop may be removed. Caster, camber, toe-in, and link pin inclination
+are free.
+j. In the ball joint suspension, the camber/caster adjusting replaced with
+an aftermarket nut of different design. Caster, camber, and toe-in are
+free.
+k. Any wheel bearings that fit the VW sedan spindles and brake drums or
+disk brake hubs without modification.
+l. Steering column altered or replaced. Steering wheel is free and may be
+detachable. Steering mechanism is free but tie rods must attach to the
+228 — 2016 SCCA® National Solo® Rules
+Modified (CM) - Appendix A
+spindle using existing steering arm, a modified steering arm, or a suitable
+new or modified bracket welded to the spindle. Ball joints in the tie
+rods may be replaced with rod ends.
+6. Wheels
+a. Any wheels and tires are allowed. Resulting track changes are allowed.
+Studs may be substituted for wheel attachment bolts in the original location.
+Bolt pattern may be changed.
+b. 4- or 5-lug wheel hubs may be used. Wheel mounting lug bolts may be
+replaced with studs.
+7. Rear Suspension
+a. The rear axle and tube assembly shall be standard VW Type 1 sedan
+(up to 1966) swing axle (no outer pivot point for a half shaft) with axle
+location provided by a single locating arm on each axle. The rear axle
+tube may be rotated about its axis. The standard shock mounting and
+brake pipe brackets may be removed.
+b. The rear axle bearing retainer flange mating surface may be machined
+or shims may be installed under the rear axle bearing for the sole purpose
+of adjusting bearing axial float.
+c. Springs, shock dampers, their actuation, and camber compensating devices
+are free.
+8. Braking System - Front and Rear
+a. Standard VW Type 1-3 brake components, disk or drum, may be used
+including any standard VW Type 1-3 original. Use of aftermarket hubs,
+disc or drum brake components in the front or rear of the vehicle, or
+any combination thereof is unrestricted as long as the units chosen are
+deemed safe.
+b. Caliper housing material may be removed on the outer radius surface of
+the outer piston housing to clear the inside of the rotating wheel.
+c. Any type lining or pad material may be used.
+d. Adapter plates may be fitted to allow mounting of front or rear brake
+calipers.
+e. Cross-drilling or grooving of rotors is permitted. Rotors made of a ferrous
+material shall be used on both the front and rear of the car.
+f. Caliper mounting is free. Rotors must be of ferrous material. Hubs and
+hats may be made of ferrous material or aluminum.
+g. The car shall be equipped with a dual braking system operated by a
+single control. In case of a leak or failure at any point in the system, effective
+braking power shall be maintained on at least 2 wheels.
+h. A separate hand brake is not required. Removal of the hand brake and
+operating mechanism is permitted.
+i. Brake lines may be of any suitable material, including steel braided
+lines.
+2016 SCCA® National Solo® Rules — 229
+Appendix A - (DM, EM) Modified
+9. Weight
+Minimum weight with driver.........................................................................1000 lbs.
+Modified class D (DM)
+Modified Production and GT cars with internal combustion engine displacement
+2000 cc and under as follows:
+A. The Mazda 12A and 13B Rotary engines are permitted in DM with the following
+restrictions:
+1. No replacement of cast iron engine case segments with aluminum.
+2. On the 12A engine, only side and rotor housings from 1974-86 engines
+shall be used.
+3. No replacement of 12A or 13B sections, such as side plates, with those
+from other series engines (i.e., Renesis-type parts).
+4. On 12A engines: no peripheral-porting or J-porting is allowed. Bridgeporting
+that does not cut into the water o-ring is permitted. On 13B
+engines, 4- & 6-port: Maximum porting permitted is street-porting. No
+bridge-porting, J-Porting, or peripheral-porting.
+B. Weight with driver vs. computed displacement (lbs.):
+• Piston engines, normally-aspirated up to & including 1800 cc .........1280
+• 12A rotary engines, normally-aspirated w/ porting restriction.......1280
+• Piston engines, normally-aspirated 1801-2000 cc..................................1380
+• 13B rotary engines, normally-aspirated w/ porting restriction.......1380
+• Forced induction w/ displacements per 18.0.B, up to 2000 cc w/ inlet
+restrictor...................................................................................................................1380
+C. Performance Adjustments (lbs.):
+• AWD.....................................................................................................................Add 200
+• Modified Tub.......................................................................................................Add 40
+D. Weight Bias Adjustment with driver sitting in the driver’s seat (lbs.):
+• RWD with less than 51% weight on drive wheels .......................Deduct 35
+• FWD..................................................................................................................Deduct 35
+• AWD............................................................................................................. Not affected
+Modified class E (EM)
+Modified Production and GT cars as follows:
+A. Weight with driver vs. Displacement (lbs.):
+• Piston engines up to & including 3200 cc OHC ........................................1700
+• Piston engines up to & including 4500 cc pushrod/OHV....................1700
+• 2-rotor rotary engines with unrestricted porting...................................1700
+• Piston engines unlimited displacement......................................................1800
+• 3-rotor rotary engines with unrestricted porting...................................1800
+• Electric powerplants (non-hybrid)...............................................................1800
+230 — 2016 SCCA® National Solo® Rules
+Modified (FM) - Appendix A
+B. Performance Adjustments (lb.):
+• AWD.....................................................................................................................Add 300
+• Modified Tub.......................................................................................................Add 50
+C. Weight Bias Adjustment with driver sitting in the driver’s seat (lbs.):
+• RWD with less than 51% weight on drive wheels .......................Deduct 50
+• FWD..................................................................................................................Deduct 50
+Modified class F (FM)
+A. Club Racing GCR-compliant Formula 500 (F5) with the following exceptions
+(listed weights are with driver):
+1. F5 cars manufactured prior to the current requirement for rubber vibration
+isolation need not conform to the current GCR Section 9.1.1.D.3.C.
+2. F5 cars manufactured prior to January 1, 1990 need not comply with
+crushable structures as defined in the current GCR Section 9.1.1.D.9.
+3. F5 cars manufactured prior to January 1, 1990 which utilize a 73”
+(185.42 cm) wheelbase may compete even though the driver’s feet extend
+beyond the front edge of the wheel rims.
+4. Minimum weights with driver (lbs.):
+• Kawasaki engine................................................................................................ 725
+• AMW engine ........................................................................................................ 800
+• Rotax 493 & 494 engine ................................................................................. 800
+• Rotax 593 engine............................................................................................... 850
+• 600 cc motorcycle engine .............................................................................. 875
+• Wheelbase of 73” or less with 440 engine ..............................subtract 25
+5. Rotax 493- & 494-powered cars are permitted to use 34 mm or 38 mm
+Mikuni round-slide carburetors. AMW powered cars may use either the
+38 mm AMW carburetors or update to the 38 mm Mikuni round-slide
+carburetors. In order to accommodate the use of the approved Mikuni
+VM 38mm sidedraft carburetors on the AMW engine, the use of the
+AMW intake manifold (part #2736-00) is permitted as are the AMW
+rubber attachment boots, gaskets, and/or hardware required for the
+use of this manifold. Competitors using the Rotax 494 RAVE engine are
+required to use the 494 non-RAVE rotary valve (Rotax part #924509
+or 924508, Ski Doo prefix 420, 147 degree designation that opens @
+135° BTDC and closes @ 64° ATDC) in their engine. RAVE valves shall
+be blocked in the “full open” position or left as delivered. No other alterations
+are permitted. 494 RAVE and non-RAVE parts may not be interchanged
+between the two engines unless specifically noted.
+6. Competitors utilizing the Rotax 493 engine may leave the manufacturer’s
+specified intake balance tubes in place or, at their option, completely
+remove the tubes and make the alterations required to plug the
+remaining holes. No unnecessary alterations are permitted if the com-
+2016 SCCA® National Solo® Rules — 231
+Appendix A - (FM) Modified
+petitor chooses to remove the tubes. The Rotax 493 engine is limited
+to a Y-pipe exhaust manifold and single expansion chamber as are the
+Rotax 494 and AMW engines.
+7. F5 cars may utilize the Rotax 593 engine (1999 and up; bore: 76 mm,
+stroke: 65.8 mm) using 38 mm Mikuni roundslide carburetors as an
+alternate 2-cylinder, 2-cycle, liquid-cooled engine in FM. Such engines
+must use inlet tract restrictors (Cometic gasket #MA0242SP1020A),
+one in each tract immediately after the carburetor. Use of the 2003 and
+up “HO,” “SDI,” “RS,” and “E-TEC” 593 variants is not permitted.
+8. All F440 & F500 engines may use any water thermostat. It may be modified
+or completely removed as necessary to aid water cooling. The water
+bypass may be blocked and alternate water cooling plumbing may
+be used. Electric water pumps may be used.
+9. F440 & F500 cars in FM are not required in Solo® to have the sidepods
+now mandated by Club Racing if they were manufactured prior to 1984
+in which that requirement was added to the GCR. Sidepods may not be
+removed from a car which was originally manufactured with them. The
+measurements for the height, the maximum width (bodywork), and
+the distance from the tires of sidepods as specified in the GCR, Bodywork
+E.9, 2nd paragraph, shall have an allowance from the GCR of ±1”
+(±25.4 mm). It is the intent of this allowance to maintain the ability of
+the sidepod(s) to continue to hold such items as fuel tanks, battery, and
+radiator(s), but not to allow sidepods to be used for ground effects to
+achieve aerodynamic downforce on the vehicle.
+10.Electric radiator/engine cooling fan(s) may be installed.
+B. Dwarf Cars®, 600 Racing Inc Legends Cars®, and Baby Grand Cars®
+Vehicles built and prepared to Western States Dwarf Car Association®
+(WSDCA®), US Legend Cars International®, or MMRA® Baby Grand®
+specifications are assigned to Modified Class F (FM).
+Note: If any conflict exists between the WSDCA®, US Legend Cars®, or
+Baby Grand® Rules and the Solo® Rules, the Solo® Rules shall take precedence.
+1. Cars prepared to these specifications are required to comply with the
+appropriate rules from their sanctioning body, except for the items listed
+below:
+a. Any tire (including recaps) meeting the applicable portions of Section
+3.3 are allowed.
+b. Any differential and final drive gear ratio may be used.
+c. Any shock absorber may be used.
+d. Any wheel up to 10” wide and any diameter may be used.
+e. Any anti-roll bar may be used.
+f. Any air filter is allowed.
+232 — 2016 SCCA® National Solo® Rules
+Modified (FM) - Appendix A
+g. Any ballast is allowed provided it is mounted securely per the Solo®
+Rules.
+h. Any battery may be used.
+i. Engine does not need to be sealed but must conform to the appropriate
+rule set.
+j. Minimum weight with driver (lbs.).........................................................1250
+2. WSDCA®, US Legend Cars®, and Baby Grand® specific items not required
+are as follows:
+a. INEX-approved manufactured metal seat. Mounting guidelines still
+apply.
+b. Seatbelt harness dating requirements.
+c. Quick-release steering wheels.
+d. Fire extinguishers.
+e. Fire-retardant driver suit and gloves.
+f. Neck braces.
+g. Head and neck restraints (HNR).
+3. Current Solo® Rules override WSDCA®, US Legend Cars®, and Baby
+Grand® rules for the following items:
+a. Helmets.
+b. Car number and class designation.
+c. Exhaust system, muffler, and tailpipe.*/

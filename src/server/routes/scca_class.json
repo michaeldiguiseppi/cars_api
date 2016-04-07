@@ -1,0 +1,64 @@
+{
+    "Acura" : {
+      "models" : "NSX Alex Zanardi Signature Edition",
+      "years" : [],
+      "scca_class" : "AS"
+    },
+    "Audi" : {
+      "models" : "TTS",
+      "years" : [2016],
+      "scca_class" : "AS"
+    },
+    "BMW" : {
+      "models" : "M3",
+      "year" : [2015, 2016],
+      "scca_class" : "AS"
+    },
+    "BMW" : {
+      "models" : "M4",
+      "years" : [2015, 2016],
+      "scca_class" : "AS"
+    },
+    "Cadillac" : {
+      "models" : "XLR",
+      "year" : [],
+      "scca_class" : "AS"
+    },
+    "Chevrolet" : {
+      "models" : "Camaro Z28",
+      "years" : [2014, 2015],
+      "scca_class" : "AS"
+    },
+    "Chevrolet" : {
+      "models" : "Camaro ZL1",
+      "years" : [2012, 2013, 2014, 2015],
+      "scca_class" : "AS"
+    }
+  }
+  {
+    "Acura" : {
+      "models" : "NSX (Non-Zanardi Edition)",
+      "years" : [],
+      "scca_class" : "BS"
+    },
+    "Audi" : {
+      "models" : "S7",
+      "years" : [2012, 2013, 2014, 2015, 2016],
+      "scca_class" : "BS"
+    },
+    "Audi" : {
+      "models" : "S6",
+      "years" : [2013, 2014, 2015, 2016],
+      "scca_class" : "BS"
+    },
+    "Honda" : {
+      "models" : "S2000 (Non-CR)",
+      "years" : [],
+      "scca_class" : "BS"
+    },
+    "Maserati" : {
+      "models" : "GranSport",
+      "years" : [2004, 2005, 2006, 2007],
+      "scca_class" : "BS"
+    }
+  }
